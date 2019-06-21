@@ -1,0 +1,98 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta http-equiv="X-UA-Compatible" content="ie=edge">
+  <title>Flask Plotlyjs Example</title>
+  <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css">
+  <script src="https://code.jquery.com/jquery.js"></script>
+  <script src="https://netdna.bootstrapcdn.com/bootstrap/3.3.4/js/bootstrap.min.js"></script>
+ 
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/d3/5.5.0/d3.js"></script>
+
+  <link href="https://cdnjs.cloudflare.com/ajax/libs/c3/0.7.1/c3.css" rel="stylesheet">></link>
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/c3/0.7.1/c3.js"></script>
+
+
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/proj4js/2.3.15/proj4.js"></script>
+  <script src="https://cdn.anychart.com/releases/v8/js/anychart-base.min.js"></script>
+  <script src="https://cdn.anychart.com/releases/v8/js/anychart-map.min.js"></script>
+  <script src="https://cdn.anychart.com/releases/v8/js/anychart-exports.min.js"></script>
+  <script src="https://cdn.anychart.com/releases/v8/js/anychart-ui.min.js"></script>
+  <link href="https://cdn.anychart.com/releases/v8/css/anychart-ui.min.css" rel="stylesheet"></link>
+  
+  <script src="https://cdn.anychart.com/geodata/2.0.0/countries/united_states_of_america/united_states_of_america.js"></script>
+  
+  <link rel="stylesheet" href="../static/styles.css"></link>
+
+</head>
+
+<body>
+	<div class="col-md-12 text-center" style="background-color:cornflowerblue;color:white">
+		<h1>US Companies Exploration App Dashboard</h1>
+		<!-- <h2>Brought to you by : Company Data Inc.</h2> -->
+	</div>
+
+  	<div class="container">
+   
+		<div class="row">
+		<div class="col-md-7" style="margin-top:10px;">
+		
+			<div class="form-group">
+					<div class="col-md-4">
+							<label style= "padding-top: 5px";>Select a Company Category</label>
+						</div>
+				<div class="col-sm-4 col-md-4">
+					<select id="selUSCC" class="form-control" onchange="selectedcategory()"></select> 
+				</div>
+				<button class="btn btn-success" onclick="buildCharts()">Build Chart</button>
+			</div>
+		</div>
+		</div>
+		
+		<!-- CHART DISPLAY -->
+		<div class="row">
+			<div class="col-md-4"> 
+				<div id="heading1" class="text-center">Company Count by State</div>
+				<div id="chartmap" style="width: 450px; height: 380px;" > </div>
+			</div>
+			<div class="col-md-4"> 
+			<div id="heading2" class="text-center">Companies by Number of FTE</div>
+				<div id="chartpie"></div>
+			</div>
+			<div class="col-md-4"> 
+			<div id="heading3" class="text-center">Companies by Business Model type</div>
+				<div id="chartbar"></div>
+			</div>
+		</div>
+
+		<div class="row">
+			<table id="tbldata" class="table table-bordered">
+				<!-- <div class="header"> -->
+					<thead>
+						<tr>
+							<th>S.No.</th>
+							<th>Company Name</th>
+							<th>Company Category</th>
+							<th>State</th>
+							<th>FTE</th>
+							<th>Business Model</th>	
+							<th>Agency Name</th>
+						</tr>
+					</thead>
+				<!-- </div>	 -->
+				<!-- <div class="content"> -->
+					<tbody></tbody>
+				<!-- </div>​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​​ -->
+			</table>	 
+		</div>	
+	</div> 
+
+  <!-- <script src="https://code.jquery.com/jquery.js"></script> -->
+<script src="../static/js/app.js"></script>
+ 
+</body>
+
+</html>
