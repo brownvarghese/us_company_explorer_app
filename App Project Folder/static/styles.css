@@ -1,0 +1,27 @@
+body {
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+#tbldata{
+	display:none;
+}
+
+/* ​.header
+{
+    height:50px;
+}
+
+.content
+{
+    position:absolute;
+    top: 50px;
+    left:0px;
+    right:0px;
+    bottom:0px;
+    overflow-y:scroll;        
+}​ */
+
+#heading1,#heading2,#heading3{
+	display:none;
+	font-weight:bold;
+}
