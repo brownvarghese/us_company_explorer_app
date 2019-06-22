@@ -23,11 +23,15 @@ function buildCharts() {
 
     var arr = [];
 
-    arr.push([res[0].FTE_range, res[0].range_count]);
-    arr.push([res[1].FTE_range, res[1].range_count]);
-    arr.push([res[2].FTE_range, res[2].range_count]);
-    arr.push([res[3].FTE_range, res[3].range_count]);
-    arr.push([res[4].FTE_range, res[4].range_count]);
+    for (var i in res) {
+      arr.push([res[i].FTE_range, res[i].range_count])
+    }
+
+    // arr.push([res[0].FTE_range, res[0].range_count]);
+    // arr.push([res[1].FTE_range, res[1].range_count]);
+    // arr.push([res[2].FTE_range, res[2].range_count]);
+    // arr.push([res[3].FTE_range, res[3].range_count]);
+    // arr.push([res[4].FTE_range, res[4].range_count]);
 
     console.log(arr)
 
@@ -51,15 +55,19 @@ function buildCharts() {
   }) 
   setTimeout(function () {
     chart.transform('pie');
-  }, 1000);
+  }, 2500);
+
+  // setTimeout(function () {
+  //   chart.transform('donut');
+  // }, 2500);
 
   setTimeout(function () {
     chart.transform('bar');
-  }, 2000);
+  }, 2500);
 
   setTimeout(function () {
     chart.transform('pie');
-  }, 3000);  
+  }, 3500);  
 
   });
 
@@ -77,6 +85,8 @@ function buildCharts() {
   anychart.onDocumentReady(function() {
     // create map
       var map = anychart.map();
+
+      map.geoData(anychart.maps['united_states_of_america']);
   
     // create data set
       var dataSet = anychart.data.set(res);
@@ -101,19 +111,19 @@ function buildCharts() {
 
       series.colorScale(ocs);
 
-      map.geoData(anychart.maps['united_states_of_america']);
-
       // enable the tooltips and format them at once
-      // series.tooltip().format(function(e){
-      //   return "Capital: " + e.getData("capital") +"\n"+
-      //   "Population: " + e.getData("population")
-      // });
+      series.tooltip().format(function(e){
+         return e.getData("id")+"\n"+"Company Cnt: " + e.getData("value") +"\n"+"Avg Agency Cnt: " + e.getData("Avg_agcy_cnt")
+      });
 
       // stroke the undefined regions
       map.unboundRegions().stroke('green');
 
       // set the fill for the regions that haven't defined in the dataSet
       map.unboundRegions().fill('#eee');
+
+      // create and enable the colorRange
+      map.colorRange(true);
   
     //set map container id (div)
       map.container('chartmap');
@@ -190,7 +200,8 @@ function buildCharts() {
     var arr2 = [];
   
     for (var i in res2) {
-      arr2.push([res2[i].sno, res2[i].company_name, res2[i].company_category, res2[i].state, res2[i].full_time_employees, res2[i].business_model, res2[i].agency_name])
+      arr2.push([res2[i].sno, res2[i].company_name, res2[i].company_category, res2[i].state, res2[i].full_time_employees, 
+        res2[i].business_model, res2[i].agency_name, res2[i].dataset_name])
     }
   
     console.log(arr2)

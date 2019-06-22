@@ -1,0 +1,1165 @@
+TRUE,company_name,state,zip_code,full_time_employees,company_category,business_model,agency_name,agency_abbrev,agency_type,used_by,dataset_name
+0,"3 Round Stones, Inc.",DC,20004,10,Data&Technology,Business to Consumer,U.S. Environmental Protection Agency,EPA,Federal,"3 Round Stones, Inc.",Toxics Release Inventory  Programs
+1,"3 Round Stones, Inc.",DC,20004,10,Data&Technology, Business to Consumer,U.S. Environmental Protection Agency,EPA,Federal,"3 Round Stones, Inc.",Facilities Registry Service (FRS)
+2,"3 Round Stones, Inc.",DC,20004,10,Data&Technology, Business to Consumer,Multiple federal data sources,,Federal,"3 Round Stones, Inc.",
+3,48 Factoring Inc.,PA,19087,200,Finance&Investment,Business to Business,New York City,NYC,City/County,48 Factoring Inc.,
+4,5PSolutions,VA,22003,10,Data&Technology, Business to Government,U.S. Environmental Protection Agency,EPA,Federal,5PSolutions,epa
+5,Abt Associates,MA,2138,5000,Research&Consulting,Business to Consumer,Department of Labor,DOL,Federal,Abt Associates,EBSA Enforcement Data
+6,Abt Associates,MA,2138,5000,Research&Consulting,Business to Consumer,Department of Commerce,USDC,Federal,Abt Associates,US Census Bureau
+7,Abt Associates,MA,2138,5000,Research&Consulting,Business to Consumer,Department of Health and Human Services,HHS,Federal,Abt Associates,Medicare Nursing Home Compare
+8,Abt Associates,MA,2138,5000,Research&Consulting,Business to Consumer,Department of Transportation,DOT,Federal,Abt Associates,US Department of Transportation Pipeline and Hazardous Materials Safety Administration (PHMSA) Office of Hazardous Materials Dietary Supplement Labeling Database
+9,Abt Associates,MA,2138,5000,Research&Consulting,Business to Consumer,U.S. Environmental Protection Agency,EPA,Federal,Abt Associates,US Environmental Protection Agency (EPA) Integrated Risk Information System (IRIS)
+10,Abt Associates,MA,2138,5000,Research&Consulting,Business to Consumer,U.S. Environmental Protection Agency,EPA,Federal,Abt Associates,US Environmental Protection Agency (EPA) Enforcement and Compliance History Online (ECHO)
+11,Accela,CA,94583,1000,Governance,Business to Consumer,Multiple city and local data sources,,City/County,Accela,
+12,Accenture,IL,60601,10001,Research&Consulting,Business to Business,Department of Health and Human Services,HHS,Federal,Accenture,"Accenture consults to national governments re: public data (e.g. EU, Canada)"
+13,AccuWeather,PA,16803,500,Environment&Weather, Business to Government,Department of Commerce,USDC,Federal,AccuWeather,
+14,Acxiom,AR,72201,10000,Data&Technology,Business to Business,Multiple government open data sources,,Other,Acxiom,
+15,Adaptive,CA,92618,50,Business&LegalServices,Business to Business,Multiple federal data sources,,Federal,Adaptive,
+16,Adobe Digital Government,CA,95510,10001,Data&Technology,Business to Government,Multiple government open data sources,,Other,Adobe Digital Government,
+17,Aidin,NY,10013,10,Healthcare, Business to Consumer,Department of Health and Human Services,HHS,Federal,Aidin,Home Health Compare
+18,Aidin,NY,10013,10,Healthcare, Business to Consumer,Department of Health and Human Services,HHS,Federal,Aidin,Nursing Home Compare
+19,Alarm.com,VA,22182,500,Lifestyle&Consumer,Business to Consumer,Department of Commerce,USDC,Federal,Alarm.com,
+20,Allianz,NY,10019,10001,Finance&Investment,Business to Consumer,Multiple government open data sources,,Other,Allianz,
+21,Allied Van Lines,IL,60181,10000,Transportation, Business to Government,Department of Commerce,USDC,Federal,Allied Van Lines,zipcode data
+22,AllState Insurance Group,IL,60062,10001,Insurance,Business to Consumer,Multiple government open data sources,,Other,AllState Insurance Group,
+23,Alltuition,IL,60611,10,Education,Business to Consumer,Department of Education,ED / DOED,Federal,Alltuition,
+24,Altova,MA,1915,200,Data&Technology,Business to Business,Securities and Exchange Commission,SEC,Federal,Altova,
+25,Amazon Web Services,WA,98109,200,Data&Technology,Business to Consumer,Multiple government open data sources,,Other,Amazon Web Services,
+26,American Red Ball Movers,IN,46239,50,Transportation, Business to Consumer,Department of Commerce,USDC,Federal,American Red Ball Movers,zipcode data
+27,Amida Technology Solutions,DC,20036,10,Healthcare, Business to Consumer,Department of Health and Human Services,HHS,Federal,Amida Technology Solutions,Blue Button
+28,Analytica,DC,20005,50,Data&Technology, Business to Government,District of Columbia,DC,State,Analytica,Crime Data
+29,Analytica,DC,20005,50,Data&Technology, Business to Government,District of Columbia,DC,State,Analytica,Crime Data
+30,Apextech LLC,VA,22201,50,Data&Technology,Business to Government,US Agency for International Development,USAID,Federal,Apextech LLC,Grants Financial Data Maintained by NGOs
+31,Apextech LLC,VA,22201,50,Data&Technology,Business to Government,US Agency for International Development,USAID,Federal,Apextech LLC,US Agency for International Development (USAID) Grants Financial Data Maintained by NGOs
+32,Apextech LLC,VA,22201,50,Data&Technology,Business to Government,Department of Defense,DOD,Federal,Apextech LLC,Accounting and Budgeting Data
+33,Apextech LLC,VA,22201,50,Data&Technology,Business to Government,Department of Defense,DOD,Federal,Apextech LLC,US Department of Defense Accounting and Budgeting Data
+34,Appallicious,CA,94104,50,Data&Technology,Business to Government,Department of Commerce,USDC,Federal,Appallicious,US Census Bureau
+35,Appallicious,CA,94104,50,Data&Technology,Business to Government,San Francisco,SF,City/County,Appallicious,San Francisco Department of Public Health
+36,Appallicious,CA,94104,50,Data&Technology,Business to Government,San Francisco,SF,City/County,Appallicious,San Francisco Parks & Recreation Info Department Dataset
+37,Aquicore,DC,0,10,Energy,Business to Business,Department of Energy,DOE,Federal,Aquicore,
+38,Archimedes Inc.,CA,94105,50,Healthcare, academia,Department of Health and Human Services,HHS,Federal,Archimedes Inc.,National Health and Nutrition Examination Survey (NHANES)
+39,Archimedes Inc.,CA,94105,50,Healthcare, academia,Department of Health and Human Services,HHS,Federal,Archimedes Inc.,National Ambulatory Medical Care Survey (NAMCS)
+40,Archimedes Inc.,CA,94105,50,Healthcare, academia,Department of Health and Human Services,HHS,Federal,Archimedes Inc.,National Hospital Discharge Survey (NHDS)
+41,Archimedes Inc.,CA,94105,50,Healthcare, academia,Department of Health and Human Services,HHS,Federal,Archimedes Inc.,Compressed Mortality File (CMF)
+42,AreaVibes Inc.,NY,0,10,Data&Technology,Business to Consumer,Department of Commerce,USDC,Federal,AreaVibes Inc.,
+43,AreaVibes Inc.,NY,0,10,Data&Technology,Business to Consumer,Department of Commerce,USDC,Federal,AreaVibes Inc.,
+44,AreaVibes Inc.,NY,0,10,Data&Technology,Business to Consumer,Department of Justice,DOJ,Federal,AreaVibes Inc.,Uniform Crime Reporting
+45,AreaVibes Inc.,NY,0,10,Data&Technology,Business to Consumer,U.S. Environmental Protection Agency,EPA,Federal,AreaVibes Inc.,
+46,Arpin Van Lines,RI,2893,500,Transportation, Business to Government,Department of Commerce,USDC,Federal,Arpin Van Lines,zipcode data
+47,Arrive Labs,CA,94110,10,Transportation,Business to Consumer,Multiple city and local data sources,,City/County,Arrive Labs,
+48,ASC Partners,MA,0,10,Business&LegalServices,Business to Business,Multiple federal data sources,,Federal,ASC Partners,ASC works with Congressional Quarterly to bring the text of government efforts to address the financial crisis.
+49,Asset4,NY,10036,200,Finance&Investment,Business to Business,Multiple government open data sources,,Other,Asset4,
+50,Atlas Van Lines,IN,47712,500,Transportation, Business to Consumer,Department of Commerce,USDC,Federal,Atlas Van Lines,
+51,Atlas Van Lines,IN,47712,500,Transportation, Business to Consumer,Multiple government open data sources,,Other,Atlas Van Lines,
+52,AtSite,DC,20036,200,Research&Consulting,Business to Business,Department of Energy,DOE,Federal,AtSite,
+53,"Aunt Bertha, Inc.",TX,78731,50,Governance,Business to Consumer,Department of the Treasury,,Federal,"Aunt Bertha, Inc.",Internal Revenue Service (IRS) SOI Tax Stats - Exempt Organizations Business Master File Extract (EO BMF)
+54,"Aunt Bertha, Inc.",TX,78731,50,Governance,Business to Consumer,Social Security Administration,SSA,Federal,"Aunt Bertha, Inc.",Benefits.gov
+55,Aureus Sciences (*Now part of Elsevier),PA,19103,50,ScientificResearch,Business to Business,Department of Health and Human Services,HHS,Federal,Aureus Sciences (*Now part of Elsevier),FDA approval packages
+56,AutoGrid Systems,CA,94065,50,Energy, Business to Government,Department of Commerce,USDC,Federal,AutoGrid Systems,
+57,Avalara,WA,98110,1000,Finance&Investment,Business to Consumer,Multiple city and local data sources,,City/County,Avalara,
+58,Avalara,WA,98110,1000,Finance&Investment,Business to Consumer,Multiple state data sources,,State,Avalara,
+59,Avvo,WA,98104,200,Business&LegalServices,Business to Consumer,Multiple government open data sources,,Other,Avvo,
+60,Ayasdi,CA,94025,200,Data&Technology,Business to Business,Department of Health and Human Services,HHS,Federal,Ayasdi,The Cancer Genome Atlas
+61,Azavea,PA,19107,50,Geospatial&Mapping, Business to Government,Department of Agriculture,USDA,Federal,Azavea,US Forest Service
+62,Azavea,PA,19107,50,Geospatial&Mapping, Business to Government,Department of Commerce,USDC,Federal,Azavea,National Oceanic and Atmospheric Administration
+63,Azavea,PA,19107,50,Geospatial&Mapping, Business to Government,Department of Commerce,USDC,Federal,Azavea,National Weather Service
+64,Azavea,PA,19107,50,Geospatial&Mapping, Business to Government,Department of Commerce,USDC,Federal,Azavea,American Community Survey (ACS)
+65,Azavea,PA,19107,50,Geospatial&Mapping, Business to Government,Department of Commerce,USDC,Federal,Azavea,US Census Bureau
+66,Azavea,PA,19107,50,Geospatial&Mapping, Business to Government,Department of Energy,DOE,Federal,Azavea,Energy Information Administration
+67,Azavea,PA,19107,50,Geospatial&Mapping, Business to Government,Department of Justice,DOJ,Federal,Azavea,Federal Bureau of Investigation
+68,Azavea,PA,19107,50,Geospatial&Mapping, Business to Government,Department of the Interior,DOI,Federal,Azavea,National Elevation Dataset (NED)
+69,Azavea,PA,19107,50,Geospatial&Mapping, Business to Government,Department of the Interior,DOI,Federal,Azavea,U.S. Geological Survey
+70,Azavea,PA,19107,50,Geospatial&Mapping, Business to Government,Department of the Interior,DOI,Federal,Azavea,US Fish and Wildlife Service
+71,Azavea,PA,19107,50,Geospatial&Mapping, Business to Government,Federal Election Commission,FED,Federal,Azavea,Federal Election Commission
+72,Azavea,PA,19107,50,Geospatial&Mapping, Business to Government,National Aeronautics and Space Administration,NASA,Federal,Azavea,National Aeronautics and Space Administration
+73,Azavea,PA,19107,50,Geospatial&Mapping, Business to Government,U.S. Environmental Protection Agency,EPA,Federal,Azavea,U.S. Environmental Protection Agency
+74,Azavea,PA,19107,50,Geospatial&Mapping, Business to Government,Multiple state data sources,,State,Azavea,Vermont Center for Geographic Information
+75,BaleFire Global,NC,27628,10,Data&Technology,Business to Government,Florida,FL,State,BaleFire Global,The City of Gainesville
+76,BaleFire Global,NC,27628,10,Data&Technology,Business to Government,Raleigh,,City/County,BaleFire Global,"The City of Raleigh, North Carolina"
+77,BaleFire Global,NC,27628,10,Data&Technology,Business to Government,Washington,WA,State,BaleFire Global,The City of Tacoma
+78,BaleFire Global,NC,27628,10,Data&Technology,Business to Government,Multiple government open data sources,,Other,BaleFire Global,The Territory of Puerto Rico
+79,BaleFire Global,NC,27628,10,Data&Technology,Business to Government,Multiple government open data sources,,Other,BaleFire Global,Ireland's National Open Data Portal (has U.S. Companies)
+80,BaleFire Global,NC,27628,10,Data&Technology,Business to Government,Multiple government open data sources,,Other,BaleFire Global,OpenCorporates International Data (has U.S. Companies)
+81,BaleFire Global,NC,27628,10,Data&Technology,Business to Government,Multiple city and local data sources,,City/County,BaleFire Global,The City of Newark
+82,BaleFire Global,NC,27628,10,Data&Technology,Business to Government,Multiple state data sources,,State,BaleFire Global,
+83,BaleFire Global,NC,27628,10,Data&Technology,Business to Government,Multiple federal data sources,,Federal,BaleFire Global,
+84,Barchart,IL,60606,200,Data&Technology,Business to Business,Department of Agriculture,USDA,Federal,Barchart,
+85,Barchart,IL,60606,200,Data&Technology,Business to Business,Department of Agriculture,USDA,Federal,Barchart,
+86,Barchart,IL,60606,200,Data&Technology,Business to Business,Department of Energy,DOE,Federal,Barchart,
+87,Be Informed,NY,10022,200,Data&Technology,Business to Business,Multiple government open data sources,,Other,Be Informed,
+88,Bekins,IN,46250,200,Transportation, Business to Government,Department of Commerce,USDC,Federal,Bekins,
+89,Berkery Noyes MandASoft,NY,10006,10,Finance&Investment, Business to Consumer,Multiple government open data sources,,Other,Berkery Noyes MandASoft,"Data from the Healthcare, Education, Financial and Technology sectors"
+90,Berkshire Hathaway,NE,0,10000,Finance&Investment,Business to Consumer,Department of the Treasury,,Federal,Berkshire Hathaway,
+91,Berkshire Hathaway,NE,0,10000,Finance&Investment,Business to Consumer,Securities and Exchange Commission,SEC,Federal,Berkshire Hathaway,
+92,BetterLesson,MA,2140,50,Education, Business to Government,Multiple government open data sources,,Other,BetterLesson,
+93,BillGuard,NY,11036,50,Finance&Investment,Business to Consumer,Consumer Financial Protection Bureau,CFPB,Federal,BillGuard,CFPB Credit Card Complaint Database
+94,Bing,WA,98052,10001,Data&Technology,Business to Consumer,Department of Health and Human Services,HHS,Federal,Bing,Uses data from HHS and the Institute of Medicine for visualization on Bing maps.
+95,Biovia,CA,92121,200,ScientificResearch,Business to Business,U.S. Environmental Protection Agency,EPA,Federal,Biovia,National Center for Computational Toxicology
+96,BizVizz,WI,53202,200,Governance,Business to Business,Multiple government open data sources,,Other,BizVizz,
+97,BlackRock,GA,30326,10001,Finance&Investment, Business to Consumer,Department of Agriculture,USDA,Federal,BlackRock,
+98,BlackRock,GA,30326,10001,Finance&Investment, Business to Consumer,Securities and Exchange Commission,SEC,Federal,BlackRock,
+99,Bloomberg,NY,10022,10001,Finance&Investment, Business to Consumer,Multiple government open data sources,,Other,Bloomberg,
+100,Booz Allen Hamilton,VA,22102,10001,Research&Consulting,Business to Business,Department of Homeland Security,DHS,Federal,Booz Allen Hamilton,
+101,Booz Allen Hamilton,VA,22102,10001,Research&Consulting,Business to Business,Department of Defense,DOD,Federal,Booz Allen Hamilton,
+102,Boston Consulting Group,MA,2108,10000,Research&Consulting,Business to Business,Multiple government open data sources,,Other,Boston Consulting Group,
+103,Boundless,NY,10038,50,Geospatial&Mapping,Business to Business,Department of Commerce,USDC,Federal,Boundless,
+104,Bridgewater,CT,6880,5000,Finance&Investment, Business to Government,Department of Labor,DOL,Federal,Bridgewater,Data on inflation
+105,Bridgewater,CT,6880,5000,Finance&Investment, Business to Government,Department of Commerce,USDC,Federal,Bridgewater,Data on U.S. gross domestic product
+106,Bridgewater,CT,6880,5000,Finance&Investment, Business to Government,Federal Reserve Board,FED,Federal,Bridgewater,Data on currency exchange rates
+107,Brightscope,CA,92122,200,Finance&Investment,Business to Consumer,Department of Labor,DOL,Federal,Brightscope,Retirement Plan Data
+108,Brightscope,CA,92122,200,Finance&Investment,Business to Consumer,Securities and Exchange Commission,SEC,Federal,Brightscope,Investment Advisor Data
+109,BuildFax,NC,0,50,Business&LegalServices, Business to Consumer,Department of Commerce,USDC,Federal,BuildFax,
+110,BuildFax,NC,0,50,Business&LegalServices, Business to Consumer,Multiple city and local data sources,,City/County,BuildFax,
+111,Buildingeye,CA,90017,10,Housing&RealEstate,Business to Consumer,Multiple city and local data sources,,City/County,Buildingeye,
+112,BuildZoom,CA,94105,50,Housing&RealEstate,Business to Consumer,San Francisco,SF,City/County,BuildZoom,State Contractor License Data
+113,BuildZoom,CA,94105,50,Housing&RealEstate,Business to Consumer,San Francisco,SF,City/County,BuildZoom,City Permit Data
+114,Business and Legal Resources,TN,37027,200,Business&LegalServices,Business to Business,Department of Labor,DOL,Federal,Business and Legal Resources,
+115,Business and Legal Resources,TN,37027,200,Business&LegalServices,Business to Business,US Equal Employment Opportunity Commission,EEOC,Federal,Business and Legal Resources,
+116,Business Monitor International,NY,0,500,Business&LegalServices,Business to Business,Multiple government open data sources,,Other,Business Monitor International,
+117,"Calcbench, Inc.",NY,10002,10,Finance&Investment,Business to Consumer,Securities and Exchange Commission,SEC,Federal,"Calcbench, Inc.",Securities and Exchange Commission
+118,Cambridge Information Group,NY,10019,50,Finance&Investment, Business to Consumer,Department of State,DOS,Federal,Cambridge Information Group,Congressional Research Service reports (CRS) and issue briefs
+119,Cambridge Semantics,MA,2111,50,Data&Technology,Business to Business,Multiple government open data sources,,Other,Cambridge Semantics,
+120,CAN Capital,NY,10014,500,Finance&Investment,Business to Business,Department of Commerce,USDC,Federal,CAN Capital,
+121,Canon,NY,11747,10001,Data&Technology,Business to Consumer,Multiple government open data sources,,Other,Canon,
+122,Capital Cube,NY,14221,50,Finance&Investment,Business to Consumer,Securities and Exchange Commission,SEC,Federal,Capital Cube,
+123,Cappex,IL,60606,200,Education,Business to Consumer,Department of Education,ED / DOED,Federal,Cappex,
+124,Captricity,CA,94704,10,Data&Technology, Business to Consumer,California,CA,State,Captricity,California Fair Political Practices Commission (FPPC)
+125,Captricity,CA,94704,10,Data&Technology, Business to Consumer,Department of the Treasury,,Federal,Captricity,IRS Form 990 Return of Organization Exempt From Income Tax
+126,CareSet Systems,TX,77024,10,Data&Technology,Business to Business,Department of Commerce,,,,
+127,Careset.com,TX,77024,10,Data&Technology,Business to Business,Department of Commerce,,,,
+128,CARFAX,VA,20120,1000,Transportation,Business to Consumer,Department of Transportation,DOT,Federal,CARFAX,
+129,CARFAX,VA,20120,1000,Transportation,Business to Consumer,Multiple city and local data sources,,City/County,CARFAX,Data from fire departments and law enforcement agencies
+130,CARFAX,VA,20120,1000,Transportation,Business to Consumer,Multiple state data sources,,State,CARFAX,Data from all 50 state DMVs
+131,Caspio,CA,95054,200,Data&Technology, Business to Consumer,Multiple government open data sources,,Other,Caspio,
+132,Castle Biosciences,TX,77546,10,ScientificResearch,Business to Consumer,Department of Health and Human Services,HHS,Federal,Castle Biosciences,Cancer Genome Atlas
+133,CB Insights,NY,10018,50,Finance&Investment,Business to Business,Securities and Exchange Commission,SEC,Federal,CB Insights,
+134,CB Insights,NY,10018,50,Finance&Investment,Business to Business,Multiple government open data sources,,Other,CB Insights,
+135,Ceiba Solutions,MA,2109,200,ScientificResearch, Business to Consumer,Department of Health and Human Services,HHS,Federal,Ceiba Solutions,National Center for Biotechnology Information
+136,Ceiba Solutions,MA,2109,200,ScientificResearch, Business to Consumer,Department of Health and Human Services,HHS,Federal,Ceiba Solutions,The PubChem Project
+137,Ceiba Solutions,MA,2109,200,ScientificResearch, Business to Consumer,Department of Health and Human Services,HHS,Federal,Ceiba Solutions,PubMed
+138,Center for Responsive Politics,DC,20005,50,Research&Consulting,nonprofit,Department of the Treasury,,Federal,Center for Responsive Politics,
+139,Center for Responsive Politics,DC,20005,50,Research&Consulting,nonprofit,Federal Election Commission,FED,Federal,Center for Responsive Politics,
+140,Center for Responsive Politics,DC,20005,50,Research&Consulting,nonprofit,Multiple government open data sources,,Other,Center for Responsive Politics,
+141,Cerner,MO,64117,10001,Healthcare,Business to Business,Department of Health and Human Services,HHS,Federal,Cerner,
+142,Certara,MO,63101,500,ScientificResearch, Business to Consumer,Department of Health and Human Services,HHS,Federal,Certara,
+143,CGI,NY,10004,10001,Business&LegalServices,Business to Business,Multiple city and local data sources,,City/County,CGI,
+144,CGI,NY,10004,10001,Business&LegalServices,Business to Business,Multiple state data sources,,State,CGI,
+145,CGI,NY,10004,10001,Business&LegalServices,Business to Business,Multiple federal data sources,,Federal,CGI,
+146,Charles River Associates,MA,0,1000,Research&Consulting,Business to Business,Department of Commerce,USDC,Federal,Charles River Associates,
+147,Charles River Associates,MA,0,1000,Research&Consulting,Business to Business,Department of Health and Human Services,HHS,Federal,Charles River Associates,Agency for healthcare research and quality - MEPS
+148,Charles River Associates,MA,0,1000,Research&Consulting,Business to Business,Department of Health and Human Services,HHS,Federal,Charles River Associates,
+149,Charles River Associates,MA,0,1000,Research&Consulting,Business to Business,Multiple government open data sources,,Other,Charles River Associates,
+150,Charles Schwab Corp.,CA,94105,10001,Finance&Investment,Business to Consumer,Department of the Treasury,,Federal,Charles Schwab Corp.,
+151,Charles Schwab Corp.,CA,94105,10001,Finance&Investment,Business to Consumer,Securities and Exchange Commission,SEC,Federal,Charles Schwab Corp.,
+152,Chemical Abstracts Service,OH,43202,5000,ScientificResearch,Nonprofit,Department of Commerce,USDC,Federal,Chemical Abstracts Service,
+153,Chemical Abstracts Service,OH,43202,5000,ScientificResearch,Nonprofit,Department of Health and Human Services,HHS,Federal,Chemical Abstracts Service,GenBank
+154,Chemical Abstracts Service,OH,43202,5000,ScientificResearch,Nonprofit,Department of Health and Human Services,HHS,Federal,Chemical Abstracts Service,GenBank
+155,Chemical Abstracts Service,OH,43202,5000,ScientificResearch,Nonprofit,National Archives and Records Administration,NARA,Federal,Chemical Abstracts Service,
+156,Child Care Desk,NY,0,200,Lifestyle&Consumer,Business to Consumer,Multiple city and local data sources,,City/County,Child Care Desk,New York State Day Care Centers
+157,Child Care Desk,NY,0,200,Lifestyle&Consumer,Business to Consumer,Multiple city and local data sources,,City/County,Child Care Desk,New York State Day Care Centers
+158,Child Care Desk,NY,0,200,Lifestyle&Consumer,Business to Consumer,Multiple city and local data sources,,City/County,Child Care Desk,New York State Day Care Centers
+159,Child Care Desk,NY,0,200,Lifestyle&Consumer,Business to Consumer,Multiple city and local data sources,,City/County,Child Care Desk,New York State Day Care Centers
+160,Child Care Desk,NY,0,200,Lifestyle&Consumer,Business to Consumer,Multiple city and local data sources,,City/County,Child Care Desk,Yelp API
+161,Child Care Desk,NY,0,200,Lifestyle&Consumer,Business to Consumer,Multiple city and local data sources,,City/County,Child Care Desk,Yelp API
+162,Child Care Desk,NY,0,200,Lifestyle&Consumer,Business to Consumer,Multiple city and local data sources,,City/County,Child Care Desk,Yelp API
+163,Child Care Desk,NY,0,200,Lifestyle&Consumer,Business to Consumer,Multiple city and local data sources,,City/County,Child Care Desk,Open311 Inquiry
+164,Child Care Desk,NY,0,200,Lifestyle&Consumer,Business to Consumer,Multiple city and local data sources,,City/County,Child Care Desk,Group Child Care Services
+165,Child Care Desk,NY,0,200,Lifestyle&Consumer,Business to Consumer,Multiple city and local data sources,,City/County,Child Care Desk,New York Day Care Centers
+166,Chubb,NJ,7059,10001,Insurance,Business to Consumer,Multiple government open data sources,,Other,Chubb,
+167,Citigroup,NY,10022,10001,Finance&Investment, Business to Government,Multiple city and local data sources,,City/County,Citigroup,"Uses city and local data for analysis of ""smart cities"""
+168,CityScan,IL,60654,10,Geospatial&Mapping, Business to Government,Chicago,CHI,City/County,CityScan,
+169,CityScan,IL,60654,10,Geospatial&Mapping, Business to Government,Department of Commerce,USDC,Federal,CityScan,
+170,CityScan,IL,60654,10,Geospatial&Mapping, Business to Government,Philadelphia,PHILA,State,CityScan,
+171,CityScan,IL,60654,10,Geospatial&Mapping, Business to Government,New York City,NYC,City/County,CityScan,
+172,CitySourced,CA,90025,50,Governance, Business to Government,Multiple city and local data sources,,City/County,CitySourced,
+173,Civic Impulse LLC,DC,20004,10,Governance, Business to Government,U.S. House of Representatives,,Federal Open Data,Civic Impulse LLC,Upcoming bills in the House
+174,Civic Impulse LLC,DC,20004,10,Governance, Business to Government,Multiple federal data sources,,Federal,Civic Impulse LLC,
+175,Civic Insight,CA,94103,10,Housing&RealEstate, Business to Government,Multiple city and local data sources,,City/County,Civic Insight,
+176,Civinomics,CA,95060,10,Governance, Business to Government,Department of Commerce,USDC,Federal,Civinomics,United States Census 2010
+177,Civis Analytics,IL,0,200,Data&Technology, nonprofit,Multiple government open data sources,,Other,Civis Analytics,
+178,Clean Power Finance,CA,94105,200,Energy, Business to Consumer,Department of Energy,DOE,Federal,Clean Power Finance,
+179,Clean Power Finance,CA,94105,200,Energy, Business to Consumer,Department of Energy,DOE,Federal,Clean Power Finance,
+180,ClearHealthCosts,NY,10036,10,Healthcare,Business to Consumer,Department of Health and Human Services,HHS,Federal,ClearHealthCosts,
+181,ClearStory Data,CA,94301,200,Data&Technology,Business to Business,Multiple government open data sources,,Other,ClearStory Data,
+182,Climate Corporation,CA,94103,200,Food&Agriculture,Business to Business,Department of Agriculture,USDA,Federal,Climate Corporation,
+183,Climate Corporation,CA,94103,200,Food&Agriculture,Business to Business,Department of Commerce,USDC,Federal,Climate Corporation,Multi-sensor Radar Derived Daily Precipitation
+184,Climate Corporation,CA,94103,200,Food&Agriculture,Business to Business,Department of Commerce,USDC,Federal,Climate Corporation,
+185,Climate Corporation,CA,94103,200,Food&Agriculture,Business to Business,Department of the Interior,DOI,Federal,Climate Corporation,High Resolution Soil Dataset
+186,Climate Corporation,CA,94103,200,Food&Agriculture,Business to Business,National Aeronautics and Space Administration,NASA,Federal,Climate Corporation,
+187,CliniCast,CA,94030,10,Healthcare,Business to Business,Department of Health and Human Services,HHS,Federal,CliniCast,SEER
+188,CliniCast,CA,94030,10,Healthcare,Business to Business,Department of Health and Human Services,HHS,Federal,CliniCast,MEPS
+189,CliniCast,CA,94030,10,Healthcare,Business to Business,Department of Health and Human Services,HHS,Federal,CliniCast,CMS 5% Dataset
+190,CliniCast,CA,94030,10,Healthcare,Business to Business,Department of Health and Human Services,HHS,Federal,CliniCast,
+191,Cloudmade,CA,94025,200,Geospatial&Mapping,Business to Business,Department of Commerce,USDC,Federal,Cloudmade,GPS data
+192,Cloudmade,CA,94025,200,Geospatial&Mapping,Business to Business,Department of Commerce,USDC,Federal,Cloudmade,
+193,Cloudmade,CA,94025,200,Geospatial&Mapping,Business to Business,Multiple government open data sources,,Other,Cloudmade,
+194,Cloudspyre,VA,20152,10,Lifestyle&Consumer,Business to Business,Department of Labor,DOL,Federal,Cloudspyre,
+195,Code for America,CA,94103,200,Governance,Business to Government,Austin,AUS,City/County,Code for America,
+196,Code for America,CA,94103,200,Governance,Business to Government,Chicago,CHI,City/County,Code for America,
+197,Code-N,CA,94025,50,Data&Technology,Business to Business,Department of Commerce,USDC,Federal,Code-N,
+198,Collective IP,CO,80216,10,Data&Technology,Business to Business,Department of Commerce,USDC,Federal,Collective IP,
+199,Collective IP,CO,80216,10,Data&Technology,Business to Business,Department of Health and Human Services,HHS,Federal,Collective IP,
+200,"College Abacus, an ECMC initiative",DC,0,1000,Finance&Investment,Business to Consumer,Department of Education,ED / DOED,Federal,"College Abacus, an ECMC initiative",IPEDS
+201,"College Abacus, an ECMC initiative",DC,0,1000,Finance&Investment,Business to Consumer,Department of Education,ED / DOED,Federal,"College Abacus, an ECMC initiative",Cohort Default Rates
+202,College Board,NY,11023,5000,Education,Business to Consumer,Department of Education,ED / DOED,Federal,College Board,
+203,College Board,NY,11023,5000,Education,Business to Consumer,Department of Education,ED / DOED,Federal,College Board,
+204,Compared Care,MD,0,10,Healthcare,Business to Consumer,Department of Health and Human Services,HHS,Federal,Compared Care,
+205,Compendia Bioscience Life Technologies,MI,48104,50,ScientificResearch, academia,Department of Health and Human Services,HHS,Federal,Compendia Bioscience Life Technologies,NIH
+206,Compendia Bioscience Life Technologies,MI,48104,50,ScientificResearch, academia,Department of Health and Human Services,HHS,Federal,Compendia Bioscience Life Technologies,NCI Thesaurus
+207,Compendia Bioscience Life Technologies,MI,48104,50,ScientificResearch, academia,Department of Health and Human Services,HHS,Federal,Compendia Bioscience Life Technologies,RefSeq
+208,Compendia Bioscience Life Technologies,MI,48104,50,ScientificResearch, academia,Department of Health and Human Services,HHS,Federal,Compendia Bioscience Life Technologies,TCGA
+209,Compliance and Risks,CA,95962,50,Business&LegalServices,Business to Business,Multiple government open data sources,,Other,Compliance and Risks,Tracks regulation and legislative changes to help companies with compliance.
+210,Compliance and Risks,CA,95962,50,Business&LegalServices,Business to Business,Multiple government open data sources,,Other,Compliance and Risks,Tracks regulation and legislative changes to help companies with compliance.
+211,Computer Packages Inc,MD,20850,200,Data&Technology,Business to Business,Department of Commerce,USDC,Federal,Computer Packages Inc,
+212,CONNECT-DOT LLC.,NJ,7410,10,Lifestyle&Consumer, Business to Government,Multiple government open data sources,,Other,CONNECT-DOT LLC.,
+213,ConnectEDU,MA,2210,200,Education,Business to Consumer,Department of Education,ED / DOED,Federal,ConnectEDU,
+214,ConnectEDU,MA,2210,200,Education,Business to Consumer,Multiple city and local data sources,,City/County,ConnectEDU,Uses district education data as well as national data.
+215,Connotate,NJ,8901,200,Data&Technology,Business to Business,Multiple government open data sources,,Other,Connotate,public records and court documents
+216,Construction Monitor LLC,UT,84721,50,Housing&RealEstate,Business to Business,Department of Commerce,USDC,Federal,Construction Monitor LLC,building permit data
+217,Construction Monitor LLC,UT,84721,50,Housing&RealEstate,Business to Business,Utah,UT,State,Construction Monitor LLC,Building Permit Data
+218,Construction Monitor LLC,UT,84721,50,Housing&RealEstate,Business to Business,Multiple city and local data sources,,City/County,Construction Monitor LLC,
+219,Construction Monitor LLC,UT,84721,50,Housing&RealEstate,Business to Business,Multiple state data sources,,State,Construction Monitor LLC,
+220,Consumer Reports,NY,10703,1000,Lifestyle&Consumer,Business to Consumer,Department of Health and Human Services,HHS,Federal,Consumer Reports,
+221,CoolClimate,CA,94720,10,Environment&Weather, Business to Government,Multiple government open data sources,,Other,CoolClimate,
+222,Copyright Clearance Center,MA,1923,500,Business&LegalServices, Business to Consumer,Multiple federal data sources,,Federal,Copyright Clearance Center,Library of Congress: US Copyright Office
+223,CoreLogic,CA,92618,5000,Housing&RealEstate,Business to Consumer,Department of Commerce,,,,
+224,CostQuest,OH,45206,50,Business&LegalServices,Business to Business,Department of Commerce,USDC,Federal,CostQuest,
+225,Credit Karma,CA,94104,200,Finance&Investment,Business to Consumer,Multiple government open data sources,,Other,Credit Karma,"Uses data on bankruptcies, court judgments, tax liens, foreclosures, past due child support, and wage garnishment."
+226,Credit Sesame,CA,94041,50,Finance&Investment,Business to Consumer,Department of Commerce,USDC,Federal,Credit Sesame,US Census Bureau Median Income by County
+227,Credit Sesame,CA,94041,50,Finance&Investment,Business to Consumer,Department of Commerce,USDC,Federal,Credit Sesame,US Census Bureau American Community Survey (ACS)
+228,CrowdANALYTIX,CA,95014,50,Data&Technology,Business to Consumer,Department of Commerce,USDC,Federal,CrowdANALYTIX,USPTO
+229,CrowdANALYTIX,CA,95014,50,Data&Technology,Business to Consumer,Department of Commerce,USDC,Federal,CrowdANALYTIX,NCDC
+230,CrowdANALYTIX,CA,95014,50,Data&Technology,Business to Consumer,Department of Energy,DOE,Federal,CrowdANALYTIX,US Energy
+231,CrowdANALYTIX,CA,95014,50,Data&Technology,Business to Consumer,Department of Energy,DOE,Federal,CrowdANALYTIX,Energy
+232,CrowdANALYTIX,CA,95014,50,Data&Technology,Business to Consumer,Department of Justice,DOJ,Federal,CrowdANALYTIX,UCR
+233,CrowdANALYTIX,CA,95014,50,Data&Technology,Business to Consumer,Department of State,DOS,Federal,CrowdANALYTIX,OECD
+234,CrowdANALYTIX,CA,95014,50,Data&Technology,Business to Consumer,Department of the Interior,DOI,Federal,CrowdANALYTIX,land management
+235,CrowdANALYTIX,CA,95014,50,Data&Technology,Business to Consumer,Department of the Interior,DOI,Federal,CrowdANALYTIX,
+236,CrowdANALYTIX,CA,95014,50,Data&Technology,Business to Consumer,Department of Transportation,DOT,Federal,CrowdANALYTIX,FARS
+237,CrowdANALYTIX,CA,95014,50,Data&Technology,Business to Consumer,Department of Transportation,DOT,Federal,CrowdANALYTIX,
+238,CrowdANALYTIX,CA,95014,50,Data&Technology,Business to Consumer,Federal Reserve Board,FED,Federal,CrowdANALYTIX,FRED
+239,Dabo Health,CA,94025,50,Healthcare,Business to Consumer,Department of Health and Human Services,HHS,Federal,Dabo Health,
+240,DataLogix,CO,80021,500,Data&Technology,Business to Business,Department of Commerce,USDC,Federal,DataLogix,
+241,DataLogix,CO,80021,500,Data&Technology,Business to Business,Multiple state data sources,,State,DataLogix,Uses DMV data from states.
+242,DataMade,IL,60647,10,Governance,Business to Government,Chicago,CHI,City/County,DataMade,Crimes - 2001 to Present
+243,DataMade,IL,60647,10,Governance,Business to Government,Illinois,IL,State,DataMade,The Open Data Portal for the Cook County Government - Cook County Budget 1993-2011
+244,DataMarket,MA,2110,50,Data&Technology,Business to Consumer,Department of the Treasury,,Federal,DataMarket,US Government Printing Office
+245,DataMarket,MA,2110,50,Data&Technology,Business to Consumer,Missouri,MO,State,DataMarket,Federal Reserve Bank of St. Louis
+246,Datamyne,FL,33216,200,Data&Technology,Business to Business,Department of Homeland Security,DHS,Federal,Datamyne,U.S. Customs and Border Protection
+247,Datamyne,FL,33216,200,Data&Technology,Business to Business,Department of Homeland Security,DHS,Federal,Datamyne,Automated Manifest System
+248,Datamyne,FL,33216,200,Data&Technology,Business to Business,Department of Homeland Security,DHS,Federal,Datamyne,customs declarations and Import-Export Customs Statistics
+249,DataWeave,NY,10012,10,Data&Technology,Business to Business,Multiple government open data sources,,Other,DataWeave,
+250,Deloitte,NY,10112,10001,Research&Consulting,Business to Business,Multiple government open data sources,,Other,Deloitte,
+251,DemystData,NY,10001,50,Finance&Investment,Business to Business,Multiple government open data sources,,Other,DemystData,
+252,Department of Better Technology,GA,30306,10,Governance,Business to Business,Multiple government open data sources,,Other,Department of Better Technology,
+253,Development Seed,DC,20001,10,Governance, Business to Consumer,Department of Commerce,USDC,Federal,Development Seed,Census Data
+254,Development Seed,DC,20001,10,Governance, Business to Consumer,Multiple government open data sources,,Other,Development Seed,AITI data
+255,Development Seed,DC,20001,10,Governance, Business to Consumer,Multiple government open data sources,,Other,Development Seed,UNDP
+256,Development Seed,DC,20001,10,Governance, Business to Consumer,Multiple government open data sources,,Other,Development Seed,World Bank
+257,Development Seed,DC,20001,10,Governance, Business to Consumer,Multiple government open data sources,,Other,Development Seed,Open Street Map
+258,"Docket Alarm, Inc.",NY,10002,10,Business&LegalServices, Business to Consumer,Department of Commerce,USDC,Federal,"Docket Alarm, Inc.",
+259,Dow Jones & Co.,NY,10036,10000,Finance&Investment, Business to Consumer,Department of the Treasury,,Federal,Dow Jones & Co.,
+260,Dow Jones & Co.,NY,10036,10000,Finance&Investment, Business to Consumer,Securities and Exchange Commission,SEC,Federal,Dow Jones & Co.,
+261,Dun & Bradstreet,NJ,7078,5000,Business&LegalServices,Business to Consumer,Securities and Exchange Commission,SEC,Federal,Dun & Bradstreet,
+262,Dun & Bradstreet,NJ,7078,5000,Business&LegalServices,Business to Consumer,Multiple government open data sources,,Other,Dun & Bradstreet,Uses data from public records
+263,Earth Networks,MD,20876,200,Environment&Weather, Business to Government,Department of Commerce,USDC,Federal,Earth Networks,
+264,Earth Networks,MD,20876,200,Environment&Weather, Business to Government,Department of Commerce,USDC,Federal,Earth Networks,
+265,EarthObserver App,NY,10027,200,Geospatial&Mapping,Business to Consumer,Department of Commerce,USDC,Federal,EarthObserver App,
+266,EarthObserver App,NY,10027,200,Geospatial&Mapping,Business to Consumer,Department of the Interior,DOI,Federal,EarthObserver App,
+267,Earthquake Alert!,VA,20192,200,Geospatial&Mapping,Business to Consumer,Department of the Interior,DOI,Federal,Earthquake Alert!,Earthquakes
+268,Eat Shop Sleep,CA,22312,200,Lifestyle&Consumer,Business to Consumer,Department of Labor,DOL,Federal,Eat Shop Sleep,
+269,Ecodesk,NY,10010,50,Business&LegalServices, Business to Government,U.S. Environmental Protection Agency,EPA,Federal,Ecodesk,
+270,eInstitutional,CT,6877,10,Finance&Investment,Business to Business,Federal Deposit Insurance Corporation,FDIC,Federal,eInstitutional,FDIC Bank & Data Statistics
+271,eInstitutional,CT,6877,10,Finance&Investment,Business to Business,Federal Reserve Board,FED,Federal,eInstitutional,Federal Reserve Banking Information & Regulation
+272,eInstitutional,CT,6877,10,Finance&Investment,Business to Business,Federal Reserve Board,FED,Federal,eInstitutional,Federal Reserve Economic Data (FRED)
+273,eInstitutional,CT,6877,10,Finance&Investment,Business to Business,Securities and Exchange Commission,SEC,Federal,eInstitutional,SEC Edgar
+274,Embark,CA,95014,10,Transportation,Business to Business,Multiple city and local data sources,,City/County,Embark,transportation system data
+275,Embark,CA,95014,10,Transportation,Business to Business,Multiple state data sources,,State,Embark,transportation system data
+276,EMC,MA,1748,10001,Data&Technology,Business to Business,Multiple government open data sources,,Other,EMC,justice and public safety; transportation; planning; environment; education; healthcare
+277,"Energy Points, Inc.",MA,2114,50,Energy,Business to Business,Department of the Interior,DOI,Federal,"Energy Points, Inc.",Water Use in the United States 2010
+278,"Energy Points, Inc.",MA,2114,50,Energy,Business to Business,U.S. Environmental Protection Agency,EPA,Federal,"Energy Points, Inc.",eGRID
+279,Energy Solutions Forum,NY,10013,10,Energy,Business to Business,Department of Energy,DOE,Federal,Energy Solutions Forum,
+280,Energy Solutions Forum,NY,10013,10,Energy,Business to Business,National Archives and Records Administration,NARA,Federal,Energy Solutions Forum,Federal Register: The Daily Journal of the United States Government
+281,Enervee Corporation,CA,90401,10,Energy,Business to Business,Department of Energy,DOE,Federal,Enervee Corporation,
+282,Enervee Corporation,CA,90401,10,Energy,Business to Business,U.S. Environmental Protection Agency,EPA,Federal,Enervee Corporation,
+283,Enigma.io,NY,10012,50,Data&Technology, Business to Government,Department of Labor,DOL,Federal,Enigma.io,
+284,Enigma.io,NY,10012,50,Data&Technology, Business to Government,Department of Agriculture,USDA,Federal,Enigma.io,
+285,Enigma.io,NY,10012,50,Data&Technology, Business to Government,Department of Commerce,USDC,Federal,Enigma.io,
+286,Enigma.io,NY,10012,50,Data&Technology, Business to Government,Department of Education,ED / DOED,Federal,Enigma.io,
+287,Enigma.io,NY,10012,50,Data&Technology, Business to Government,Department of Energy,DOE,Federal,Enigma.io,
+288,Enigma.io,NY,10012,50,Data&Technology, Business to Government,Department of Health and Human Services,HHS,Federal,Enigma.io,
+289,Enigma.io,NY,10012,50,Data&Technology, Business to Government,Department of Homeland Security,DHS,Federal,Enigma.io,
+290,Enigma.io,NY,10012,50,Data&Technology, Business to Government,Department of Justice,DOJ,Federal,Enigma.io,
+291,Enigma.io,NY,10012,50,Data&Technology, Business to Government,Department of State,DOS,Federal,Enigma.io,
+292,Enigma.io,NY,10012,50,Data&Technology, Business to Government,Department of the Interior,DOI,Federal,Enigma.io,
+293,Enigma.io,NY,10012,50,Data&Technology, Business to Government,Department of the Treasury,,Federal,Enigma.io,
+294,Enigma.io,NY,10012,50,Data&Technology, Business to Government,Department of Transportation,DOT,Federal,Enigma.io,
+295,Enigma.io,NY,10012,50,Data&Technology, Business to Government,Department of Defense,DOD,Federal,Enigma.io,
+296,Ensco,VA,22042,10000,Energy,Business to Business,Multiple government open data sources,,Other,Ensco,
+297,Environmental Data Resources,CT,6461,200,Environment&Weather,Business to Business,U.S. Environmental Protection Agency,EPA,Federal,Environmental Data Resources,
+298,Environmental Data Resources,CT,6461,200,Environment&Weather,Business to Business,Multiple city and local data sources,,City/County,Environmental Data Resources,"Uses environmental records, land use information, and bulding permit data from thousands of federal, state, tribal, and local sources"
+299,Environmental Data Resources,CT,6461,200,Environment&Weather,Business to Business,Multiple state data sources,,State,Environmental Data Resources,"Uses environmental records, land use information, and bulding permit data from thousands of federal, state, tribal, and local sources"
+300,Epsilon,TX,75024,10000,Data&Technology,Business to Business,Multiple government open data sources,,Other,Epsilon,
+301,Equal Pay for Women,VA,23113,200,Business&LegalServices,Business to Consumer,Department of Labor,DOL,Federal,Equal Pay for Women,
+302,Equifax,GA,30374,10000,Finance&Investment,Business to Business,Multiple government open data sources,,Other,Equifax,"employment, income and identity data"
+303,Equilar,CA,94063,200,Data&Technology,Business to Business,Securities and Exchange Commission,SEC,Federal,Equilar,
+304,Ernst & Young LLP,NY,10036,10001,Finance&Investment,Business to Business,Multiple government open data sources,,Other,Ernst & Young LLP,
+305,eScholar LLC.,NY,10605,200,Education, Business to Consumer,Multiple government open data sources,,Other,eScholar LLC.,
+306,Esri,CA,92373,5000,Geospatial&Mapping,Business to Consumer,Department of Commerce,USDC,Federal,Esri,Federal GPS and Geographic Data
+307,Esri,CA,92373,5000,Geospatial&Mapping,Business to Consumer,Department of Commerce,USDC,Federal,Esri,US Census Bureau
+308,Estately,WA,98102,10,Housing&RealEstate,Business to Consumer,Multiple government open data sources,,Other,Estately,
+309,Everyday Health,NY,10014,1000,Lifestyle&Consumer,Business to Consumer,Department of Health and Human Services,HHS,Federal,Everyday Health,
+310,Evidera,MD,20814,500,Healthcare,Business to Business,Department of Health and Human Services,HHS,Federal,Evidera,
+311,Experian,CA,92626,10001,Finance&Investment, Business to Consumer,Multiple government open data sources,,Other,Experian,"Department of Corrections; Arrest Records; Warrant Records; Administrative Office of the Courts; Patriot Act Records; Sex Offender Records. Records on liens, judgments, bankruptcies, UCC filings. Census"
+312,"Expert Health Data Programming, Inc.",WA,98005,10,Healthcare, Business to Government,Department of Commerce,USDC,Federal,"Expert Health Data Programming, Inc.",
+313,"Expert Health Data Programming, Inc.",WA,98005,10,Healthcare, Business to Government,Department of Health and Human Services,HHS,Federal,"Expert Health Data Programming, Inc.",
+314,"Expert Health Data Programming, Inc.",WA,98005,10,Healthcare, Business to Government,Department of Health and Human Services,HHS,Federal,"Expert Health Data Programming, Inc.",
+315,"Expert Health Data Programming, Inc.",WA,98005,10,Healthcare, Business to Government,Multiple government open data sources,,Other,"Expert Health Data Programming, Inc.",
+316,Exversion,NY,0,10,Data&Technology,Business to Business,Multiple government open data sources,,Other,Exversion,
+317,Ez-XBRL,VA,22701,200,Finance&Investment,Business to Business,Securities and Exchange Commission,SEC,Federal,Ez-XBRL,US Securities and Exchange Commision (SEC) Next-Generation EDGAR System
+318,Factset,CT,6851,10000,Finance&Investment,Business to Business,Department of Labor,DOL,Federal,Factset,
+319,Factset,CT,6851,10000,Finance&Investment,Business to Business,Department of Commerce,USDC,Federal,Factset,
+320,Factset,CT,6851,10000,Finance&Investment,Business to Business,Department of Commerce,USDC,Federal,Factset,
+321,Factset,CT,6851,10000,Finance&Investment,Business to Business,Department of the Treasury,,Federal,Factset,
+322,Factset,CT,6851,10000,Finance&Investment,Business to Business,Federal Reserve Board,FED,Federal,Factset,
+323,Factual,CA,90067,200,Data&Technology,Business to Business,Department of Commerce,USDC,Federal,Factual,
+324,Farmers,CA,90010,10001,Insurance, Business to Consumer,Department of Commerce,USDC,Federal,Farmers,
+325,FarmLogs,MI,48104,50,Food&Agriculture,Business to Business,Department of Agriculture,USDA,Federal,FarmLogs,Cropland Data Layer
+326,FarmLogs,MI,48104,50,Food&Agriculture,Business to Business,Department of Commerce,USDC,Federal,FarmLogs,Hourly Precipitation
+327,Fastcase,DC,20004,200,Business&LegalServices,Business to Business,Administrative Office of the United States Courts,AO,Federal,Fastcase,US Supreme Court - 2013 Term Opinions of the Court
+328,Fastcase,DC,20004,200,Business&LegalServices,Business to Business,Administrative Office of the United States Courts,AO,Federal,Fastcase,Office of the Law Revision Council
+329,Fidelity Investments,MA,2210,10001,Finance&Investment, Business to Consumer,Securities and Exchange Commission,SEC,Federal,Fidelity Investments,
+330,Fidelity Investments,MA,2210,10001,Finance&Investment, Business to Consumer,Multiple federal data sources,,Federal,Fidelity Investments,
+331,FindTheBest.com,CA,93108,200,Lifestyle&Consumer,Business to Consumer,Department of Labor,DOL,Federal,FindTheBest.com,
+332,FindTheBest.com,CA,93108,200,Lifestyle&Consumer,Business to Consumer,Department of Agriculture,USDA,Federal,FindTheBest.com,National Agricultural Library
+333,FindTheBest.com,CA,93108,200,Lifestyle&Consumer,Business to Consumer,Department of Agriculture,USDA,Federal,FindTheBest.com,
+334,FindTheBest.com,CA,93108,200,Lifestyle&Consumer,Business to Consumer,Department of Agriculture,USDA,Federal,FindTheBest.com,
+335,FindTheBest.com,CA,93108,200,Lifestyle&Consumer,Business to Consumer,Department of Agriculture,USDA,Federal,FindTheBest.com,
+336,FindTheBest.com,CA,93108,200,Lifestyle&Consumer,Business to Consumer,Department of Agriculture,USDA,Federal,FindTheBest.com,
+337,FindTheBest.com,CA,93108,200,Lifestyle&Consumer,Business to Consumer,Department of Energy,DOE,Federal,FindTheBest.com,Energy Efficiency and Renewable Energy
+338,FindTheBest.com,CA,93108,200,Lifestyle&Consumer,Business to Consumer,Department of Energy,DOE,Federal,FindTheBest.com,
+339,FindTheBest.com,CA,93108,200,Lifestyle&Consumer,Business to Consumer,Department of Health and Human Services,HHS,Federal,FindTheBest.com,Agency for Healthcare Research and Quality
+340,FindTheBest.com,CA,93108,200,Lifestyle&Consumer,Business to Consumer,Department of Health and Human Services,HHS,Federal,FindTheBest.com,
+341,FindTheBest.com,CA,93108,200,Lifestyle&Consumer,Business to Consumer,Department of Health and Human Services,HHS,Federal,FindTheBest.com,Centers for Disease Control and Prevention
+342,FindTheBest.com,CA,93108,200,Lifestyle&Consumer,Business to Consumer,Department of Homeland Security,DHS,Federal,FindTheBest.com,
+343,FindTheBest.com,CA,93108,200,Lifestyle&Consumer,Business to Consumer,Department of Housing and Urban Development,HUD,Federal,FindTheBest.com,
+344,FindTheBest.com,CA,93108,200,Lifestyle&Consumer,Business to Consumer,Department of Justice,DOJ,Federal,FindTheBest.com,
+345,FindTheBest.com,CA,93108,200,Lifestyle&Consumer,Business to Consumer,Department of the Treasury,,Federal,FindTheBest.com,
+346,FindTheBest.com,CA,93108,200,Lifestyle&Consumer,Business to Consumer,Department of Transportation,DOT,Federal,FindTheBest.com,
+347,FindTheBest.com,CA,93108,200,Lifestyle&Consumer,Business to Consumer,Department of Transportation,DOT,Federal,FindTheBest.com,
+348,FindTheBest.com,CA,93108,200,Lifestyle&Consumer,Business to Consumer,Federal Communications Commission,FCC,Federal,FindTheBest.com,
+349,FindTheBest.com,CA,93108,200,Lifestyle&Consumer,Business to Consumer,Federal Deposit Insurance Corporation,FDIC,Federal,FindTheBest.com,
+350,FindTheBest.com,CA,93108,200,Lifestyle&Consumer,Business to Consumer,Federal Election Commission,FED,Federal,FindTheBest.com,
+351,FindTheBest.com,CA,93108,200,Lifestyle&Consumer,Business to Consumer,General Services Administration,GSA,Federal,FindTheBest.com,
+352,FindTheBest.com,CA,93108,200,Lifestyle&Consumer,Business to Consumer,National Aeronautics and Space Administration,NASA,Federal,FindTheBest.com,
+353,FindTheBest.com,CA,93108,200,Lifestyle&Consumer,Business to Consumer,US Consumer Product Safety Commission,CPSC,Federal,FindTheBest.com,
+354,FindTheBest.com,CA,93108,200,Lifestyle&Consumer,Business to Consumer,US Equal Employment Opportunity Commission,EEOC,Federal,FindTheBest.com,
+355,FindTheBest.com,CA,93108,200,Lifestyle&Consumer,Business to Consumer,Multiple government open data sources,,Other,FindTheBest.com,
+356,FindTheBest.com,CA,93108,200,Lifestyle&Consumer,Business to Consumer,Multiple city and local data sources,,City/County,FindTheBest.com,
+357,FindTheBest.com,CA,93108,200,Lifestyle&Consumer,Business to Consumer,Multiple state data sources,,State,FindTheBest.com,
+358,FindTheBest.com,CA,93108,200,Lifestyle&Consumer,Business to Consumer,Multiple federal data sources,,Federal,FindTheBest.com,
+359,FindTheBest.com,CA,93108,200,Lifestyle&Consumer,Business to Consumer,Department of Defense,DOD,Federal,FindTheBest.com,
+360,FindTheBest.com,CA,93108,200,Lifestyle&Consumer,Business to Consumer,New York City,NYC,City/County,FindTheBest.com,
+361,First Fuel Software,MA,2420,200,Energy, Business to Government,Department of Commerce,USDC,Federal,First Fuel Software,
+362,First Fuel Software,MA,2420,200,Energy, Business to Government,Department of Energy,DOE,Federal,First Fuel Software,Electric Vehicle Charging Station Locations
+363,First Fuel Software,MA,2420,200,Energy, Business to Government,Department of Energy,DOE,Federal,First Fuel Software,geographic information system building data
+364,"FirstPoint, Inc.",NC,27401,200,Business&LegalServices,Business to Business,Multiple state data sources,,State,"FirstPoint, Inc.",
+365,"FirstPoint, Inc.",NC,27401,200,Business&LegalServices,Business to Business,Multiple federal data sources,,Federal,"FirstPoint, Inc.",
+366,Fitch,NY,10004,5000,Finance&Investment,Business to Business,Multiple government open data sources,,Other,Fitch,
+367,FlightAware,TX,77046,200,Transportation,Business to Business,Department of Transportation,DOT,Federal,FlightAware,
+368,FlightStats,OR,97204,200,Transportation,Business to Consumer,Department of Transportation,DOT,Federal,FlightStats,ASDI Data Feed
+369,FlightStats,OR,97204,200,Transportation,Business to Consumer,Department of Transportation,DOT,Federal,FlightStats,ASDI Data Feed
+370,FlightView,MA,2458,50,Transportation,Business to Business,Department of Commerce,USDC,Federal,FlightView,
+371,FlightView,MA,2458,50,Transportation,Business to Business,Department of Transportation,DOT,Federal,FlightView,
+372,Food+Tech Connect,NY,11222,10,Food&Agriculture,Business to Business,Department of Agriculture,USDA,Federal,Food+Tech Connect,
+373,Forrester Research,MA,2140,5000,Research&Consulting,Business to Business,Multiple government open data sources,,Other,Forrester Research,
+374,Foursquare,NY,10012,200,Lifestyle&Consumer,Business to Consumer,Department of Commerce,USDC,Federal,Foursquare,
+375,Fujitsu,CA,94089,10001,Data&Technology,Business to Consumer,Securities and Exchange Commission,SEC,Federal,Fujitsu,
+376,Funding Circle,CA,94111,200,Finance&Investment,Business to Business,Multiple city and local data sources,,City/County,Funding Circle,County Court Judgments and bankruptcies
+377,FutureAdvisor,CA,94107,50,Finance&Investment,Business to Consumer,Department of Labor,DOL,Federal,FutureAdvisor,
+378,FutureAdvisor,CA,94107,50,Finance&Investment,Business to Consumer,Securities and Exchange Commission,SEC,Federal,FutureAdvisor,
+379,"Fuzion Apps, Inc.",TX,77479,10,Lifestyle&Consumer,Business to Business,Department of Labor,DOL,Federal,"Fuzion Apps, Inc.",State
+380,"Fuzion Apps, Inc.",TX,77479,10,Lifestyle&Consumer,Business to Business,Department of Labor,DOL,Federal,"Fuzion Apps, Inc.",National
+381,Gallup,DC,20004,5000,Research&Consulting,Business to Business,Department of Commerce,USDC,Federal,Gallup,Uses  demographic characteristics of the adult population
+382,Galorath Incorporated,CA,90245,50,Business&LegalServices,Business to Business,Multiple government open data sources,,Other,Galorath Incorporated,
+383,Garmin,KA,66062,10000,Geospatial&Mapping,Business to Consumer,Department of Commerce,USDC,Federal,Garmin,
+384,Genability,CA,94105,10,Energy,Business to Business,Department of Energy,DOE,Federal,Genability,Utility Data
+385,GenoSpace,MA,2108,50,Healthcare, academia,Department of Health and Human Services,HHS,Federal,GenoSpace,genomic data
+386,Geofeedia,IL,60606,50,Geospatial&Mapping,Business to Business,Department of Commerce,USDC,Federal,Geofeedia,
+387,Geolytics,NJ,8876,10,Data&Technology, Business to Government,Department of Commerce,USDC,Federal,Geolytics,
+388,Geoscape,FL,33135,50,Lifestyle&Consumer,Business to Business,Department of Labor,DOL,Federal,Geoscape,
+389,Geoscape,FL,33135,50,Lifestyle&Consumer,Business to Business,Department of Commerce,USDC,Federal,Geoscape,
+390,GetRaised,NY,10009,10,Finance&Investment,Business to Consumer,Department of Labor,DOL,Federal,GetRaised,
+391,GitHub,CA,94107,500,Data&Technology,Business to Business,Multiple government open data sources,,Other,GitHub,
+392,Glassy Media,MA,2139,10,Governance,Business to Consumer,Federal Election Commission,FED,Federal,Glassy Media,
+393,Golden Helix,MT,59718,50,ScientificResearch,Business to Business,Department of Health and Human Services,HHS,Federal,Golden Helix,
+394,GoodGuide,CA,94111,50,Lifestyle&Consumer,Business to Consumer,Department of Labor,DOL,Federal,GoodGuide,
+395,GoodGuide,CA,94111,50,Lifestyle&Consumer,Business to Consumer,Department of Energy,DOE,Federal,GoodGuide,
+396,GoodGuide,CA,94111,50,Lifestyle&Consumer,Business to Consumer,Department of Health and Human Services,HHS,Federal,GoodGuide,
+397,GoodGuide,CA,94111,50,Lifestyle&Consumer,Business to Consumer,U.S. Environmental Protection Agency,EPA,Federal,GoodGuide,Toxics Release Inventory
+398,GoodGuide,CA,94111,50,Lifestyle&Consumer,Business to Consumer,U.S. Environmental Protection Agency,EPA,Federal,GoodGuide,Design for the Environment
+399,GoodGuide,CA,94111,50,Lifestyle&Consumer,Business to Consumer,U.S. Environmental Protection Agency,EPA,Federal,GoodGuide,"Priority Persistent, Bioaccumulative, and Toxic (PBT) Substance List"
+400,GoodGuide,CA,94111,50,Lifestyle&Consumer,Business to Consumer,U.S. Environmental Protection Agency,EPA,Federal,GoodGuide,Risk-Screening Environmental Indicators (RSEI)
+401,GoodGuide,CA,94111,50,Lifestyle&Consumer,Business to Consumer,U.S. Environmental Protection Agency,EPA,Federal,GoodGuide,National Environmental Performance Track Company
+402,GoodGuide,CA,94111,50,Lifestyle&Consumer,Business to Consumer,U.S. Environmental Protection Agency,EPA,Federal,GoodGuide,"Design for the Environment Formulator Partners and Recognized Products, Consumer Cleaning Products"
+403,GoodGuide,CA,94111,50,Lifestyle&Consumer,Business to Consumer,U.S. Environmental Protection Agency,EPA,Federal,GoodGuide,Persistent Bioaccumulative Toxic (PBT) Chemicals Final Rule
+404,GoodGuide,CA,94111,50,Lifestyle&Consumer,Business to Consumer,U.S. Environmental Protection Agency,EPA,Federal,GoodGuide,Integrated Risk Information System (IRIS) Carcinogenicity Weight of Evidence Characterizations
+405,GoodGuide,CA,94111,50,Lifestyle&Consumer,Business to Consumer,U.S. Environmental Protection Agency,EPA,Federal,GoodGuide,Chemicals Action Plan
+406,GoodGuide,CA,94111,50,Lifestyle&Consumer,Business to Consumer,U.S. Environmental Protection Agency,EPA,Federal,GoodGuide,Listing of All Toxicity Weights for TRI Chemicals and Chemical Categories
+407,GoodGuide,CA,94111,50,Lifestyle&Consumer,Business to Consumer,U.S. Environmental Protection Agency,EPA,Federal,GoodGuide,HPV Chemical Hazard Data Availability Study
+408,GoodGuide,CA,94111,50,Lifestyle&Consumer,Business to Consumer,U.S. Environmental Protection Agency,EPA,Federal,GoodGuide,ENERGY STAR Rated Products Lists
+409,GoodGuide,CA,94111,50,Lifestyle&Consumer,Business to Consumer,U.S. Environmental Protection Agency,EPA,Federal,GoodGuide,Toxics Release Inventory (TRI) Program
+410,GoodGuide,CA,94111,50,Lifestyle&Consumer,Business to Consumer,U.S. Environmental Protection Agency,EPA,Federal,GoodGuide,EPA Cars
+411,GoodGuide,CA,94111,50,Lifestyle&Consumer,Business to Consumer,U.S. Environmental Protection Agency,EPA,Federal,GoodGuide,SmartWay Certification
+412,GoodGuide,CA,94111,50,Lifestyle&Consumer,Business to Consumer,U.S. Environmental Protection Agency,EPA,Federal,GoodGuide,2010 EPA Green Power Leadership Awards
+413,GoodGuide,CA,94111,50,Lifestyle&Consumer,Business to Consumer,U.S. Environmental Protection Agency,EPA,Federal,GoodGuide,Green Power Top 50
+414,GoodGuide,CA,94111,50,Lifestyle&Consumer,Business to Consumer,U.S. Environmental Protection Agency,EPA,Federal,GoodGuide,EPA 100% Green Power Purchasers
+415,GoodGuide,CA,94111,50,Lifestyle&Consumer,Business to Consumer,U.S. Environmental Protection Agency,EPA,Federal,GoodGuide,Safer Detergents Stewardship Initiative (SDSI)
+416,GoodGuide,CA,94111,50,Lifestyle&Consumer,Business to Consumer,U.S. Environmental Protection Agency,EPA,Federal,GoodGuide,Green Power Partner
+417,GoodGuide,CA,94111,50,Lifestyle&Consumer,Business to Consumer,U.S. Environmental Protection Agency,EPA,Federal,GoodGuide,Green Chemistry Award
+418,GoodGuide,CA,94111,50,Lifestyle&Consumer,Business to Consumer,U.S. Environmental Protection Agency,EPA,Federal,GoodGuide,Design for the Environment
+419,Google Maps,CA,94043,10000,Geospatial&Mapping, Business to Government,Department of Commerce,USDC,Federal,Google Maps,
+420,Google Maps,CA,94043,10000,Geospatial&Mapping, Business to Government,Department of Commerce,USDC,Federal,Google Maps,
+421,Google Maps,CA,94043,10000,Geospatial&Mapping, Business to Government,Multiple government open data sources,,Other,Google Maps,
+422,Google Maps,CA,94043,10000,Geospatial&Mapping, Business to Government,Multiple city and local data sources,,City/County,Google Maps,
+423,Google Public Data Explorer,CA,94043,10000,Data&Technology, Business to Consumer,Multiple government open data sources,,Other,Google Public Data Explorer,
+424,Government Transaction Services,VA,22182,10,Finance&Investment,Business to Business,General Services Administration,GSA,Federal,Government Transaction Services,Federal grant administrative reports
+425,Govini,CA,94107,50,Governance,Business to Business,Multiple government open data sources,,Other,Govini,
+426,GovTribe,VA,22209,10,Governance, Business to Government,Multiple government open data sources,,Other,GovTribe,USA Spending
+427,GovTribe,VA,22209,10,Governance, Business to Government,Multiple government open data sources,,Other,GovTribe,Federal Business Opportunities (Fed Biz Opps)
+428,"Govzilla, Inc.",IL,60560,200,Governance,Business to Consumer,Department of Health and Human Services,HHS,Federal,"Govzilla, Inc.",US Food and Drug Administration (FDA)
+429,gRadiant Research LLC,MA,1742,200,Research&Consulting,Business to Consumer,Department of Health and Human Services,HHS,Federal,gRadiant Research LLC,National Ambulatory Medical Care Survey
+430,gRadiant Research LLC,MA,1742,200,Research&Consulting,Business to Consumer,Department of Health and Human Services,HHS,Federal,gRadiant Research LLC,National Hospital Ambulatory Medical Care Survey
+431,gRadiant Research LLC,MA,1742,200,Research&Consulting,Business to Consumer,Department of Health and Human Services,HHS,Federal,gRadiant Research LLC,National Survey of Ambulatory Surgery
+432,gRadiant Research LLC,MA,1742,200,Research&Consulting,Business to Consumer,Department of Health and Human Services,HHS,Federal,gRadiant Research LLC,National Health Information Survey
+433,Graebel Van Lines,CO,80011,5000,Transportation, Business to Consumer,Department of Commerce,USDC,Federal,Graebel Van Lines,zip code data
+434,"Graematter, Inc.",MO,63011,10,Data&Technology,Business to Business,Department of Commerce,USDC,Federal,"Graematter, Inc.",
+435,"Graematter, Inc.",MO,63011,10,Data&Technology,Business to Business,Department of Health and Human Services,HHS,Federal,"Graematter, Inc.",
+436,"Graematter, Inc.",MO,63011,10,Data&Technology,Business to Business,Department of Justice,DOJ,Federal,"Graematter, Inc.",
+437,Granicus,CA,94107,200,Governance,Business to Government,Multiple government open data sources,,Other,Granicus,Uses 5 million government media files and public records
+438,GreatSchools,CA,94105,200,Education,Business to Consumer,California,CA,State,GreatSchools,2013 STAR Test Results
+439,GreatSchools,CA,94105,200,Education,Business to Consumer,Department of Education,ED / DOED,Federal,GreatSchools,Common Core of Data (CCD)
+440,GuideStar,DC,20006,200,Governance,nonprofit,Department of the Treasury,,Federal,GuideStar,
+441,H3 Biomedicine,MA,2139,200,ScientificResearch,Business to Business,Department of Health and Human Services,HHS,Federal,H3 Biomedicine,
+442,Harris Corporation,FL,32901,10001,Environment&Weather,Business to Consumer,Department of Commerce,USDC,Federal,Harris Corporation,
+443,"HDScores, Inc",MD,21224,10,Lifestyle&Consumer,Business to Consumer,District of Columbia,DC,State,"HDScores, Inc",Washington DC Health Department
+444,"HDScores, Inc",MD,21224,10,Lifestyle&Consumer,Business to Consumer,Maryland,MD,State,"HDScores, Inc",Montgomery County Health Department
+445,"HDScores, Inc",MD,21224,10,Lifestyle&Consumer,Business to Consumer,Virginia,VA,State,"HDScores, Inc",Virginia Health Department
+446,Headlight,TX,78701,10,Data&Technology, Business to Nonprofit,Department of Labor,DOL,Federal,Headlight,
+447,Headlight,TX,78701,10,Data&Technology, Business to Nonprofit,Department of Commerce,USDC,Federal,Headlight,
+448,Headlight,TX,78701,10,Data&Technology, Business to Nonprofit,Department of Education,ED / DOED,Federal,Headlight,
+449,Healthgrades,CO,80202,1000,Healthcare,Business to Consumer,Department of Health and Human Services,HHS,Federal,Healthgrades,CMS MEDPAR
+450,Healthgrades,CO,80202,1000,Healthcare,Business to Consumer,Department of Health and Human Services,HHS,Federal,Healthgrades,18 State ALL Payer Hospital Dataset
+451,Healthline,CA,94107,200,Healthcare,Business to Business,Department of Health and Human Services,HHS,Federal,Healthline,Unified Medical Language System
+452,HealthMap,MA,2115,50,Healthcare,Business to Consumer,Department of Health and Human Services,HHS,Federal,HealthMap,
+453,HealthMap,MA,2115,50,Healthcare,Business to Consumer,Department of Defense,DOD,Federal,HealthMap,
+454,"HealthPocket, Inc.",CA,94085,10,Healthcare,Business to Consumer,Department of Health and Human Services,HHS,Federal,"HealthPocket, Inc.",HealthCare Finder API
+455,"HealthPocket, Inc.",CA,94085,10,Healthcare,Business to Consumer,Department of Health and Human Services,HHS,Federal,"HealthPocket, Inc.","Prescription Drug Plan Formulary, Pharmacy Network, and Pricing Information Files"
+456,HelloWallet,DC,20037,50,Finance&Investment, Business to Consumer,Department of Labor,DOL,Federal,HelloWallet,Consumer Expenditure Survey
+457,HelloWallet,DC,20037,50,Finance&Investment, Business to Consumer,Department of Commerce,USDC,Federal,HelloWallet,Survey of Income and Program Participation
+458,HelloWallet,DC,20037,50,Finance&Investment, Business to Consumer,Federal Reserve Board,FED,Federal,HelloWallet,Survey of Consumer Finances
+459,HERE,IL,60606,10000,Geospatial&Mapping,Business to Consumer,Department of Commerce,USDC,Federal,HERE,
+460,HERE,IL,60606,10000,Geospatial&Mapping,Business to Consumer,Department of the Interior,DOI,Federal,HERE,
+461,Honest Buildings,NY,10013,50,Housing&RealEstate,Business to Business,U.S. Environmental Protection Agency,EPA,Federal,Honest Buildings,
+462,HopStop,NY,10016,10,Transportation,Business to Consumer,Multiple city and local data sources,,City/County,HopStop,
+463,Housefax,VA,20169,10,Housing&RealEstate,Business to Consumer,Multiple city and local data sources,,City/County,Housefax,
+464,How's My Offer?,WA,0,200,Education,Business to Consumer,Department of Education,ED / DOED,Federal,How's My Offer?,Integrated Postsecondary Education Data System (IPEDS)
+465,IBM,NY,0,10001,Data&Technology,Business to Consumer,Department of Commerce,USDC,Federal,IBM,
+466,IBM,NY,0,10001,Data&Technology,Business to Consumer,Department of Commerce,USDC,Federal,IBM,
+467,IBM,NY,0,10001,Data&Technology,Business to Consumer,Multiple government open data sources,,Other,IBM,
+468,ideas42,NY,10004,50,Research&Consulting,nonprofit,Consumer Financial Protection Bureau,CFPB,Federal,ideas42,Consumer Finance Protection Bureau (CFPB) Complaints Database
+469,ideas42,NY,10004,50,Research&Consulting,nonprofit,U.S. Environmental Protection Agency,EPA,Federal,ideas42,US Environmental Protection Agency (EPA) Fuel Economy
+470,iFactor Consulting,AZ,85281,50,Research&Consulting,Business to Business,Department of Commerce,USDC,Federal,iFactor Consulting,
+471,iFactor Consulting,AZ,85281,50,Research&Consulting,Business to Business,Department of Energy,DOE,Federal,iFactor Consulting,
+472,IFI CLAIMS Patent Services,CT,6443,50,Data&Technology,Business to Business,Department of Commerce,USDC,Federal,IFI CLAIMS Patent Services,US granted patents XML
+473,IFI CLAIMS Patent Services,CT,6443,50,Data&Technology,Business to Business,Department of Commerce,USDC,Federal,IFI CLAIMS Patent Services,US patent applications XML
+474,IFI CLAIMS Patent Services,CT,6443,50,Data&Technology,Business to Business,Department of Commerce,USDC,Federal,IFI CLAIMS Patent Services,patent daily reassignments
+475,IFI CLAIMS Patent Services,CT,6443,50,Data&Technology,Business to Business,Department of Commerce,USDC,Federal,IFI CLAIMS Patent Services,public PAIR
+476,IFI CLAIMS Patent Services,CT,6443,50,Data&Technology,Business to Business,Department of Commerce,USDC,Federal,IFI CLAIMS Patent Services,patent reclassification
+477,IFI CLAIMS Patent Services,CT,6443,50,Data&Technology,Business to Business,Department of Commerce,USDC,Federal,IFI CLAIMS Patent Services,patent gazette
+478,IFI CLAIMS Patent Services,CT,6443,50,Data&Technology,Business to Business,Department of Commerce,USDC,Federal,IFI CLAIMS Patent Services,
+479,iMedicare,NY,10013,10,Healthcare,Business to Business,Department of Health and Human Services,HHS,Federal,iMedicare,
+480,Impact Forecasting (Aon),IL,60601,10001,Insurance,Business to Business,Multiple government open data sources,,Other,Impact Forecasting (Aon),
+481,Impaq International,MD,21044,500,Research&Consulting,Business to Business,Department of Health and Human Services,HHS,Federal,Impaq International,
+482,Import.io,CA,94103,50,Data&Technology, Business to Consumer,Multiple government open data sources,,Other,Import.io,
+483,IMS Health,CT,6810,10000,Healthcare,Business to Business,Department of Health and Human Services,HHS,Federal,IMS Health,
+484,IMS Health,CT,6810,10000,Healthcare,Business to Business,Department of Veterans Affairs,VA,Federal,IMS Health,
+485,InCadence,VA,20109,10,Data&Technology, nonprofit,Multiple government open data sources,,Other,InCadence,
+486,indoo.rs,CA,94301,50,Geospatial&Mapping,Business to Consumer,Department of Commerce,USDC,Federal,indoo.rs,
+487,InfoCommerce Group,PA,19004,10,Research&Consulting,Business to Business,Multiple government open data sources,,Other,InfoCommerce Group,
+488,Informatica,CA,94063,5000,Data&Technology,Business to Business,Department of Defense,DOD,Federal,Informatica,Uses data from the intelligence community from state and local governments
+489,InnoCentive,MA,2451,200,ScientificResearch,Business to Consumer,Multiple government open data sources,,Other,InnoCentive,
+490,Innography,TX,78746,200,Business&LegalServices,Business to Business,Department of Commerce,USDC,Federal,Innography,
+491,Innography,TX,78746,200,Business&LegalServices,Business to Business,Department of Commerce,USDC,Federal,Innography,
+492,Innography,TX,78746,200,Business&LegalServices,Business to Business,Department of Health and Human Services,HHS,Federal,Innography,
+493,Innography,TX,78746,200,Business&LegalServices,Business to Business,Securities and Exchange Commission,SEC,Federal,Innography,
+494,Innography,TX,78746,200,Business&LegalServices,Business to Business,Multiple federal data sources,,Federal,Innography,
+495,Innovest Systems,NY,10014,200,Finance&Investment,Business to Business,Securities and Exchange Commission,SEC,Federal,Innovest Systems,
+496,Inovalon,MD,20716,5000,Healthcare,Business to Business,Department of Health and Human Services,HHS,Federal,Inovalon,
+497,Inrix Traffic,WA,98033,500,Transportation,Business to Consumer,Department of Commerce,USDC,Federal,Inrix Traffic,
+498,Inrix Traffic,WA,98033,500,Transportation,Business to Consumer,Department of Commerce,USDC,Federal,Inrix Traffic,
+499,Intelius,WA,0,200,Business&LegalServices, Business to Consumer,Multiple government open data sources,,Other,Intelius,
+500,Intermap Technologies,CO,80112,200,Geospatial&Mapping, Business to Government,National Aeronautics and Space Administration,NASA,Federal,Intermap Technologies,"Advanced Spaceborne Thermal Emission and Reflection Radiometer - ASTER (asterweb.jpl.nasa.gov), Shuttle Radar Topography Mission- SRTM (www2.jpl.nasa.gov/srtm/‎), GTOPO30"
+501,Intermap Technologies,CO,80112,200,Geospatial&Mapping, Business to Government,National Aeronautics and Space Administration,NASA,Federal,Intermap Technologies,Advanced Spaceborne Thermal Emission and Reflection Radiometer - ASTER
+502,Investormill,NY,10003,10,Finance&Investment,Business to Business,Department of Labor,DOL,Federal,Investormill,CPI
+503,Investormill,NY,10003,10,Finance&Investment,Business to Business,Department of Labor,DOL,Federal,Investormill,PPI
+504,Investormill,NY,10003,10,Finance&Investment,Business to Business,Department of Labor,DOL,Federal,Investormill,Employment
+505,Investormill,NY,10003,10,Finance&Investment,Business to Business,Department of Labor,DOL,Federal,Investormill,Unemployment
+506,Investormill,NY,10003,10,Finance&Investment,Business to Business,Department of Commerce,USDC,Federal,Investormill,GDP
+507,Investormill,NY,10003,10,Finance&Investment,Business to Business,Department of Commerce,USDC,Federal,Investormill,
+508,Investormill,NY,10003,10,Finance&Investment,Business to Business,Department of Energy,DOE,Federal,Investormill,Petroleum Status Report
+509,Investormill,NY,10003,10,Finance&Investment,Business to Business,Department of Energy,DOE,Federal,Investormill,Petroleum Status Report
+510,Investormill,NY,10003,10,Finance&Investment,Business to Business,Federal Reserve Board,FED,Federal,Investormill,H.15
+511,Investormill,NY,10003,10,Finance&Investment,Business to Business,Federal Reserve Board,FED,Federal,Investormill,G.19
+512,Investormill,NY,10003,10,Finance&Investment,Business to Business,Federal Reserve Board,FED,Federal,Investormill,G.17
+513,Investormill,NY,10003,10,Finance&Investment,Business to Business,Federal Reserve Board,FED,Federal,Investormill,H.4.1
+514,Investormill,NY,10003,10,Finance&Investment,Business to Business,Federal Reserve Board,FED,Federal,Investormill,H.6
+515,Investormill,NY,10003,10,Finance&Investment,Business to Business,Federal Reserve Board,FED,Federal,Investormill,H.8
+516,Investormill,NY,10003,10,Finance&Investment,Business to Business,Federal Reserve Board,FED,Federal,Investormill,H.10
+517,Iodine,CA,94107,10,Healthcare,Business to Consumer,Department of Health and Human Services,HHS,Federal,Iodine,
+518,Iodine,CA,94107,10,Healthcare,Business to Consumer,Department of Health and Human Services,HHS,Federal,Iodine,
+519,Iodine,CA,94107,10,Healthcare,Business to Consumer,Department of Health and Human Services,HHS,Federal,Iodine,
+520,Iodine,CA,94107,10,Healthcare,Business to Consumer,Department of Health and Human Services,HHS,Federal,Iodine,
+521,Iodine,CA,94107,10,Healthcare,Business to Consumer,Department of Veterans Affairs,VA,Federal,Iodine,
+522,IPHIX,VA,22046,10,Data&Technology, Business to Government,Securities and Exchange Commission,SEC,Federal,IPHIX,US Securities and Exchange Commission
+523,IPHIX,VA,22046,10,Data&Technology, Business to Government,Multiple government open data sources,,Other,IPHIX,Recovery.gov
+524,iRecycle,AZ,85257,10,Environment&Weather,Business to Business,Department of Commerce,USDC,Federal,iRecycle,
+525,iRecycle,AZ,85257,10,Environment&Weather,Business to Business,Department of Commerce,USDC,Federal,iRecycle,zipcode data
+526,iTriage,CO,80202,200,Healthcare, Business to Consumer,Department of Health and Human Services,HHS,Federal,iTriage,Community Health Clinics
+527,iTriage,CO,80202,200,Healthcare, Business to Consumer,Department of Health and Human Services,HHS,Federal,iTriage,TXT4Tots
+528,iTriage,CO,80202,200,Healthcare, Business to Consumer,Department of Health and Human Services,HHS,Federal,iTriage,Home Health Facilities
+529,iTriage,CO,80202,200,Healthcare, Business to Consumer,Department of Health and Human Services,HHS,Federal,iTriage,National Provider Identifier Standard
+530,iTriage,CO,80202,200,Healthcare, Business to Consumer,Department of Health and Human Services,HHS,Federal,iTriage,Mental Health & Substance Abuse Clinics
+531,iTriage,CO,80202,200,Healthcare, Business to Consumer,Department of Health and Human Services,HHS,Federal,iTriage,National Ambulatory Medical Care Survey (NAMCS) and National Hospital Ambulatory Medical Care Survey (NHAMCS)
+532,iTriage,CO,80202,200,Healthcare, Business to Consumer,Department of Health and Human Services,HHS,Federal,iTriage,National Hospital Ambulatory Medical Care Survey (NHAMCS)
+533,IVES Group Inc,MA,1590,50,Data&Technology,Business to Business,Department of Labor,DOL,Federal,IVES Group Inc,ERISA Forms 5500
+534,IVES Group Inc,MA,1590,50,Data&Technology,Business to Business,Department of Commerce,USDC,Federal,IVES Group Inc,Federal Audit Clearinghouse/Office of Management and Budget (Single Audit Non-Profit Data)
+535,IVES Group Inc,MA,1590,50,Data&Technology,Business to Business,Executive Office of the President,EOP,Federal,IVES Group Inc,Federal Audit Clearinghouse/Office of Management and Budget (Single Audit Non-Profit Data)
+536,IVES Group Inc,MA,1590,50,Data&Technology,Business to Business,Securities and Exchange Commission,SEC,Federal,IVES Group Inc,EDGAR
+537,IVES Group Inc,MA,1590,50,Data&Technology,Business to Business,Administrative Office of the United States Courts,AO,Federal,IVES Group Inc,Public Access to Court Electronic Records (PACER)
+538,IVES Group Inc,MA,1590,50,Data&Technology,Business to Business,Multiple federal data sources,,Federal,IVES Group Inc,Public Company Accounting Oversight Board (PCAOB)
+539,IW Financial,ME,4102,50,Finance&Investment,Business to Business,Department of Homeland Security,DHS,Federal,IW Financial,National Response Center's Emergency Response Notification System
+540,IW Financial,ME,4102,50,Finance&Investment,Business to Business,U.S. Environmental Protection Agency,EPA,Federal,IW Financial,Toxic Release Inventory
+541,IW Financial,ME,4102,50,Finance&Investment,Business to Business,U.S. Environmental Protection Agency,EPA,Federal,IW Financial,EnviroFacts
+542,JJ Keller,WI,54957,5000,Business&LegalServices,Business to Business,Department of Labor,DOL,Federal,JJ Keller,injury and illness records
+543,JJ Keller,WI,54957,5000,Business&LegalServices,Business to Business,Department of Labor,DOL,Federal,JJ Keller,injury and illness records
+544,J.P. Morgan Chase,NY,10017,10001,Finance&Investment, Business to Government,Multiple government open data sources,,Other,J.P. Morgan Chase,Combines federal financial and economic data with credit card and transactional data on their customers to develop insights into consumer trends.
+545,"Junar, Inc.",TX,75070,10,Data&Technology, academia,California,CA,State,"Junar, Inc.",Finance Data City of Cupertino
+546,"Junar, Inc.",TX,75070,10,Data&Technology, academia,Palo Alto,PA,City/County,"Junar, Inc.",City of Palo Alto Development Center Permits
+547,"Junar, Inc.",TX,75070,10,Data&Technology, academia,Multiple city and local data sources,,City/County,"Junar, Inc.",
+548,Junyo,CA,94025,50,Education, Business to Government,Department of Education,ED / DOED,Federal,Junyo,
+549,Jurispect,CA,94043,10,Business&LegalServices,Business to Business,Commodity Futures Trading Commission,CFTC,Federal,Jurispect,
+550,Jurispect,CA,94043,10,Business&LegalServices,Business to Business,Consumer Financial Protection Bureau,CFPB,Federal,Jurispect,
+551,Jurispect,CA,94043,10,Business&LegalServices,Business to Business,Department of Agriculture,USDA,Federal,Jurispect,
+552,Jurispect,CA,94043,10,Business&LegalServices,Business to Business,Department of Energy,DOE,Federal,Jurispect,
+553,Jurispect,CA,94043,10,Business&LegalServices,Business to Business,Department of Justice,DOJ,Federal,Jurispect,
+554,Jurispect,CA,94043,10,Business&LegalServices,Business to Business,Department of the Treasury,,Federal,Jurispect,
+555,Jurispect,CA,94043,10,Business&LegalServices,Business to Business,Department of Transportation,DOT,Federal,Jurispect,
+556,Jurispect,CA,94043,10,Business&LegalServices,Business to Business,Federal Communications Commission,FCC,Federal,Jurispect,
+557,Jurispect,CA,94043,10,Business&LegalServices,Business to Business,Federal Reserve Board,FED,Federal,Jurispect,
+558,Jurispect,CA,94043,10,Business&LegalServices,Business to Business,Securities and Exchange Commission,SEC,Federal,Jurispect,
+559,Jurispect,CA,94043,10,Business&LegalServices,Business to Business,U.S. Environmental Protection Agency,EPA,Federal,Jurispect,
+560,Kaiser Permanante,CA,94612,10001,Healthcare,Business to Consumer,Department of Commerce,USDC,Federal,Kaiser Permanante,GPS data
+561,Kaiser Permanante,CA,94612,10001,Healthcare,Business to Consumer,Multiple city and local data sources,,City/County,Kaiser Permanante,public data to provide context and geolocation for a Location API on its facilities.
+562,karmadata,MA,2043,10,Healthcare, Business to Consumer,Department of Commerce,USDC,Federal,karmadata,USPTO Applications (2005-Present)
+563,karmadata,MA,2043,10,Healthcare, Business to Consumer,Department of Commerce,USDC,Federal,karmadata,USPTO Grants (2005-Present)
+564,karmadata,MA,2043,10,Healthcare, Business to Consumer,Department of Health and Human Services,HHS,Federal,karmadata,Prospective Payment System
+565,karmadata,MA,2043,10,Healthcare, Business to Consumer,Department of Health and Human Services,HHS,Federal,karmadata,Hospital Compare
+566,karmadata,MA,2043,10,Healthcare, Business to Consumer,Department of Health and Human Services,HHS,Federal,karmadata,Medicaid State Drug Utilization
+567,karmadata,MA,2043,10,Healthcare, Business to Consumer,Department of Health and Human Services,HHS,Federal,karmadata,Medicare Provider Charge Data
+568,karmadata,MA,2043,10,Healthcare, Business to Consumer,Department of Health and Human Services,HHS,Federal,karmadata,National Plan and Provider Enumeration System
+569,karmadata,MA,2043,10,Healthcare, Business to Consumer,Department of Health and Human Services,HHS,Federal,karmadata,National Plan and Provider Enumeration System Orgs
+570,karmadata,MA,2043,10,Healthcare, Business to Consumer,Department of Health and Human Services,HHS,Federal,karmadata,ClinicalTrials.gov
+571,karmadata,MA,2043,10,Healthcare, Business to Consumer,Department of Health and Human Services,HHS,Federal,karmadata,RePORTER Grant Database
+572,karmadata,MA,2043,10,Healthcare, Business to Consumer,Department of Health and Human Services,HHS,Federal,karmadata,PubMed
+573,karmadata,MA,2043,10,Healthcare, Business to Consumer,Department of Health and Human Services,HHS,Federal,karmadata,Adverse Events Reporting System
+574,karmadata,MA,2043,10,Healthcare, Business to Consumer,Department of Health and Human Services,HHS,Federal,karmadata,Bioresearch Monitoring Information System
+575,karmadata,MA,2043,10,Healthcare, Business to Consumer,Department of Health and Human Services,HHS,Federal,karmadata,Clinical Investigator Inspection List
+576,karmadata,MA,2043,10,Healthcare, Business to Consumer,Department of Health and Human Services,HHS,Federal,karmadata,Devices@FDA
+577,karmadata,MA,2043,10,Healthcare, Business to Consumer,Department of Health and Human Services,HHS,Federal,karmadata,Drugs@FDA and Orange Book
+578,karmadata,MA,2043,10,Healthcare, Business to Consumer,Department of Health and Human Services,HHS,Federal,karmadata,FDA Orphan Drugs
+579,karmadata,MA,2043,10,Healthcare, Business to Consumer,Department of Health and Human Services,HHS,Federal,karmadata,National Drug Code Directory
+580,karmadata,MA,2043,10,Healthcare, Business to Consumer,Department of Health and Human Services,HHS,Federal,karmadata,National Survey of Ambulatory Surgery
+581,Keychain Logistics Corp.,CA,94107,10,Transportation, Business to Consumer,Department of Transportation,DOT,Federal,Keychain Logistics Corp.,
+582,"KidAdmit, Inc.",CA,94107,10,Education,Business to Consumer,California,CA,State,"KidAdmit, Inc.",Community Care Licensing
+583,Kimono Labs,CA,94110,10,Data&Technology,Business to Consumer,Department of Labor,DOL,Federal,Kimono Labs,
+584,KLD Research,NY,10005,200,Finance&Investment,Business to Business,U.S. Environmental Protection Agency,EPA,Federal,KLD Research,"Uses environmental, social, and governance (ESG) data."
+585,Knoema,DC,20000,200,Data&Technology,Business to Consumer,Multiple government open data sources,,Other,Knoema,
+586,Knowledge Agency,NY,10001,200,Research&Consulting,Business to Consumer,Multiple federal data sources,,Federal,Knowledge Agency,
+587,KPMG,NY,10154,10001,Business&LegalServices,Business to Business,Multiple government open data sources,,Other,KPMG,
+588,Kroll Bond Ratings Agency,NY,10022,200,Finance&Investment,Business to Business,Department of the Treasury,,Federal,Kroll Bond Ratings Agency,
+589,Kroll Bond Ratings Agency,NY,10022,200,Finance&Investment,Business to Business,Securities and Exchange Commission,SEC,Federal,Kroll Bond Ratings Agency,
+590,Kyruus,MA,2110,200,Healthcare,Business to Business,Department of Health and Human Services,HHS,Federal,Kyruus,"physician demographics, credentials, clinical and scientific expertise, utilization, performance, and compliance"
+591,Lawdragon,NY,10017,50,Business&LegalServices,Business to Business,California,CA,State,Lawdragon,Databases of Licensed Lawyers
+592,Lawdragon,NY,10017,50,Business&LegalServices,Business to Business,Administrative Office of the United States Courts,AO,Federal,Lawdragon,Public Access to Court Electronic Records (PACER)
+593,Legal Science Partners,PA,19072,200,Business&LegalServices, Business to Government,Multiple government open data sources,,Other,Legal Science Partners,
+594,(Leg)Cyte,DC,20005,200,Governance,Business to Consumer,Multiple federal data sources,,Federal,(Leg)Cyte,
+595,"LegiNation, Inc.",CO,80203,10,Governance,Business to Consumer,Multiple government open data sources,,Other,"LegiNation, Inc.",50 state legislatures (plus Congress and DC)
+596,"LegiNation, Inc.",CO,80203,10,Governance,Business to Consumer,Multiple government open data sources,,Other,"LegiNation, Inc.",Bills from all 50 states
+597,LegiStorm,DC,20002,10,Governance,Business to Consumer,Multiple federal data sources,,Federal,LegiStorm,Uses U.S. House and Senate public records.
+598,Lenddo,NY,0,200,Finance&Investment,Business to Consumer,Multiple government open data sources,,Other,Lenddo,
+599,Lending Club,CA,94105,1000,Finance&Investment,Business to Consumer,Multiple government open data sources,,Other,Lending Club,Public record on bankruptcies and judgments
+600,Level One Technologies,MO,63043,10,Data&Technology,Business to Business,Multiple state data sources,,State,Level One Technologies,"Provides Parrascope, software to help schools track relevant state spending."
+601,Level One Technologies,MO,63043,10,Data&Technology,Business to Business,Multiple federal data sources,,Federal,Level One Technologies,"Provides Parrascope, software to help schools track relevant federal spending."
+602,LexisNexis,NY,10017,10001,Business&LegalServices,Business to Business,Multiple government open data sources,,Other,LexisNexis,"Property records, Criminal Records, Bankruptcies, Tax Liens, Judgments, Death Record"
+603,Liberty Mutual Insurance Cos.,MA,2116,10001,Insurance, Business to Consumer,Multiple government open data sources,,Other,Liberty Mutual Insurance Cos.,
+604,Lilly Open Innovation Drug Discovery,IN,46285,200,ScientificResearch,Business to Business,Department of Health and Human Services,HHS,Federal,Lilly Open Innovation Drug Discovery,
+605,Liquid Robotics,CA,94089,200,Geospatial&Mapping,Business to Business,Department of Commerce,USDC,Federal,Liquid Robotics,GPS data
+606,Locavore,WI,53703,10,Food&Agriculture,Business to Consumer,Department of Agriculture,USDA,Federal,Locavore,Farmers Markets Geographic Data
+607,Locavore,WI,53703,10,Food&Agriculture,Business to Consumer,Department of Commerce,USDC,Federal,Locavore,GPS data
+608,"LOGIXDATA, LLC",CA,95811,200,Finance&Investment,Business to Business,Securities and Exchange Commission,SEC,Federal,"LOGIXDATA, LLC",
+609,LoopNet,CA,94107,500,Housing&RealEstate,Business to Consumer,Multiple city and local data sources,,City/County,LoopNet,
+610,"Loqate, Inc.",CA,94404,50,Geospatial&Mapping,Business to Business,Department of Commerce,USDC,Federal,"Loqate, Inc.",
+611,LoseIt.com,MA,2210,50,Lifestyle&Consumer,Business to Consumer,Department of Agriculture,USDA,Federal,LoseIt.com,
+612,LOVELAND Technologies,MI,48226,10,Data&Technology, nonprofit,Multiple government open data sources,,Other,LOVELAND Technologies,
+613,Lucid,CA,94607,50,Energy,Business to Consumer,Department of Commerce,USDC,Federal,Lucid,NOAA weather data across the U.S.
+614,Lucid,CA,94607,50,Energy,Business to Consumer,Department of Energy,DOE,Federal,Lucid,EIA electricity cost and emissions data by state
+615,Lucid,CA,94607,50,Energy,Business to Consumer,Department of Energy,DOE,Federal,Lucid,
+616,Lucid,CA,94607,50,Energy,Business to Consumer,U.S. Environmental Protection Agency,EPA,Federal,Lucid,EPA/DOE electricity cost and emissions data by state
+617,"Lumesis, Inc.",CT,6901,50,Data&Technology,Business to Consumer,Department of Labor,DOL,Federal,"Lumesis, Inc.",Unemployment
+618,"Lumesis, Inc.",CT,6901,50,Data&Technology,Business to Consumer,Department of Labor,DOL,Federal,"Lumesis, Inc.",Unemployment
+619,"Lumesis, Inc.",CT,6901,50,Data&Technology,Business to Consumer,Department of Commerce,USDC,Federal,"Lumesis, Inc.",Poverty
+620,Mango Transit,WA,0,200,Geospatial&Mapping,Business to Consumer,Multiple city and local data sources,,City/County,Mango Transit,
+621,Mapbox,DC,20009,50,Geospatial&Mapping, Business to Government,Department of Agriculture,USDA,Federal,Mapbox,National agriculture imagery program (NAIP)
+622,Mapbox,DC,20009,50,Geospatial&Mapping, Business to Government,Department of Commerce,USDC,Federal,Mapbox,
+623,Mapbox,DC,20009,50,Geospatial&Mapping, Business to Government,Department of the Interior,DOI,Federal,Mapbox,Landsat
+624,Mapbox,DC,20009,50,Geospatial&Mapping, Business to Government,National Aeronautics and Space Administration,NASA,Federal,Mapbox,
+625,Maponics,VT,5001,50,Geospatial&Mapping,Business to Business,Department of Commerce,USDC,Federal,Maponics,
+626,Maponics,VT,5001,50,Geospatial&Mapping,Business to Business,Multiple government open data sources,,Other,Maponics,
+627,MapQuest,CO,80202,200,Geospatial&Mapping,Business to Consumer,Department of Commerce,USDC,Federal,MapQuest,
+628,MapQuest,CO,80202,200,Geospatial&Mapping,Business to Consumer,Multiple city and local data sources,,City/County,MapQuest,
+629,"Marinexplore, Inc.",CA,94085,10,Geospatial&Mapping,Business to Business,Department of Commerce,USDC,Federal,"Marinexplore, Inc.",Atlantic Oceanographic and Meteorological Laboratory
+630,"Marinexplore, Inc.",CA,94085,10,Geospatial&Mapping,Business to Business,Department of Commerce,USDC,Federal,"Marinexplore, Inc.",CoastWatch
+631,"Marinexplore, Inc.",CA,94085,10,Geospatial&Mapping,Business to Business,Department of Commerce,USDC,Federal,"Marinexplore, Inc.",National Climatic Data Center
+632,"Marinexplore, Inc.",CA,94085,10,Geospatial&Mapping,Business to Business,Department of Commerce,USDC,Federal,"Marinexplore, Inc.",National Coastal Data Development Center
+633,"Marinexplore, Inc.",CA,94085,10,Geospatial&Mapping,Business to Business,Department of Commerce,USDC,Federal,"Marinexplore, Inc.",National Data Buoy Center
+634,"Marinexplore, Inc.",CA,94085,10,Geospatial&Mapping,Business to Business,Department of Commerce,USDC,Federal,"Marinexplore, Inc.",National Geophysical Data Center
+635,"Marinexplore, Inc.",CA,94085,10,Geospatial&Mapping,Business to Business,Department of Commerce,USDC,Federal,"Marinexplore, Inc.",National Oceanographic Data Center
+636,"Marinexplore, Inc.",CA,94085,10,Geospatial&Mapping,Business to Business,Department of Commerce,USDC,Federal,"Marinexplore, Inc.",NMFS Pacific Fisheries Environmental Laboratory
+637,"Marinexplore, Inc.",CA,94085,10,Geospatial&Mapping,Business to Business,National Aeronautics and Space Administration,NASA,Federal,"Marinexplore, Inc.",OurOcean Group High-Resolution Sea Surface Temperature
+638,MarketSense,WA,98075,10,Business&LegalServices,Business to Business,Multiple government open data sources,,Other,MarketSense,
+639,Marlin & Associates,NY,10022,50,Finance&Investment,Business to Business,Securities and Exchange Commission,SEC,Federal,Marlin & Associates,
+640,Marlin Alter and Associates,FL,0,200,Business&LegalServices,Business to Consumer,Multiple government open data sources,,Other,Marlin Alter and Associates,
+641,McGraw Hill Financial,NY,10020,10001,Finance&Investment,Business to Business,Multiple state data sources,,State,McGraw Hill Financial,"Uses economic, demographic and building data"
+642,McGraw Hill Financial,NY,10020,10001,Finance&Investment,Business to Business,Multiple federal data sources,,Federal,McGraw Hill Financial,
+643,McKinsey,NY,10022,10001,Research&Consulting, Business to Government,Multiple government open data sources,,Other,McKinsey,
+644,MedWatcher,MA,2115,200,Healthcare,Business to Consumer,Department of Health and Human Services,HHS,Federal,MedWatcher,FDA Adverse Event Reporting System data files
+645,Mercaris,MD,20910,10,Food&Agriculture, Business to Consumer,Department of Agriculture,USDA,Federal,Mercaris,AMS Market News Report
+646,Mercaris,MD,20910,10,Food&Agriculture, Business to Consumer,Department of Agriculture,USDA,Federal,Mercaris,GATS
+647,Merrill Corp.,MN,55108,10001,Data&Technology,Business to Business,Securities and Exchange Commission,SEC,Federal,Merrill Corp.,
+648,Merrill Lynch,NY,10080,10001,Finance&Investment,Business to Consumer,Securities and Exchange Commission,SEC,Federal,Merrill Lynch,
+649,Merrill Lynch,NY,10080,10001,Finance&Investment,Business to Consumer,Multiple federal data sources,,Federal,Merrill Lynch,
+650,MetLife,NY,10166,10001,Insurance, Business to Consumer,Multiple government open data sources,,Other,MetLife,
+651,mHealthCoach,IL,60622,10,Healthcare,Business to Business,Department of Health and Human Services,HHS,Federal,mHealthCoach,
+652,MicroBilt Corporation,GA,30144,500,Business&LegalServices,Business to Business,Multiple government open data sources,,Other,MicroBilt Corporation,"uses financial, property, and other public records"
+653,Microsoft Windows Azure Marketplace,WA,0,10001,Data&Technology, Business to Consumer,Multiple government open data sources,,Other,Microsoft Windows Azure Marketplace,
+654,Mint,CA,94043,10000,Finance&Investment,Business to Consumer,Multiple government open data sources,,Other,Mint,
+655,Moody's,NY,10007,5000,Finance&Investment,Business to Business,Multiple government open data sources,,Other,Moody's,"Uses economic, demographic, and labor data."
+656,Morgan Stanley,NY,10036,10001,Finance&Investment, Business to Consumer,Securities and Exchange Commission,SEC,Federal,Morgan Stanley,
+657,Morgan Stanley,NY,10036,10001,Finance&Investment, Business to Consumer,Multiple government open data sources,,Other,Morgan Stanley,
+658,"Morningstar, Inc.",IL,60602,5000,Finance&Investment, Business to Consumer,Securities and Exchange Commission,SEC,Federal,"Morningstar, Inc.",
+659,Mozio,CA,0,50,Transportation,Business to Business,Multiple city and local data sources,,City/County,Mozio,transport data
+660,MuckRock.com,MA,0,10,Business&LegalServices,Business to Consumer,Multiple government open data sources,,Other,MuckRock.com,Uses data obtained under state and federal Freedom of Information Laws
+661,Munetrix,MI,48326,10,Governance,Business to Consumer,Department of Commerce,USDC,Federal,Munetrix,
+662,Munetrix,MI,48326,10,Governance,Business to Consumer,Department of Justice,DOJ,Federal,Munetrix,
+663,Munetrix,MI,48326,10,Governance,Business to Consumer,Multiple city and local data sources,,City/County,Munetrix,
+664,Munetrix,MI,48326,10,Governance,Business to Consumer,Multiple state data sources,,State,Munetrix,
+665,Municode,FL,32310,200,Business&LegalServices,Business to Business,Multiple city and local data sources,,City/County,Municode,Uses local data from codes of ordinances.
+666,National Van Lines,IL,60155,200,Transportation, Business to Government,Department of Commerce,USDC,Federal,National Van Lines,zipcode data
+667,Nationwide Mutual Insurance Company,OH,0,10001,Insurance, Business to Consumer,Multiple government open data sources,,Other,Nationwide Mutual Insurance Company,
+668,Nautilytics,MA,2111,10,Data&Technology, Business to Consumer,Department of Agriculture,USDA,Federal,Nautilytics,
+669,Navico,NH,3063,5000,Geospatial&Mapping,Business to Consumer,Department of Commerce,USDC,Federal,Navico,
+670,NERA Economic Consulting,NY,0,1000,Research&Consulting,Business to Business,Department of Health and Human Services,HHS,Federal,NERA Economic Consulting,
+671,NERA Economic Consulting,NY,0,1000,Research&Consulting,Business to Business,Multiple government open data sources,,Other,NERA Economic Consulting,
+672,NerdWallet,CA,94107,50,Finance&Investment,Business to Consumer,Department of Commerce,USDC,Federal,NerdWallet,census
+673,NerdWallet,CA,94107,50,Finance&Investment,Business to Consumer,Department of Health and Human Services,HHS,Federal,NerdWallet,CMS
+674,New Media Parents,CA,94105,10,Geospatial&Mapping,Business to Consumer,San Francisco,SF,City/County,New Media Parents,San Francisco
+675,New Media Parents,CA,94105,10,Geospatial&Mapping,Business to Consumer,Seattle,SEA,City/County,New Media Parents,City of Seattle Parks
+676,Next Step Living,MA,2210,1000,Energy,Business to Consumer,Department of Energy,DOE,Federal,Next Step Living,
+677,Next Step Living,MA,2210,1000,Energy,Business to Consumer,Multiple government open data sources,,Other,Next Step Living,"data on local, state and federal government grants and tax breaks, utility rebates and pricing plans, and other financial incentives available for home retrofits in the state"
+678,NextBus,CA,94608,50,Transportation, Business to Government,Department of Commerce,USDC,Federal,NextBus,
+679,NextBus,CA,94608,50,Transportation, Business to Government,Multiple city and local data sources,,City/County,NextBus,
+680,nGAP Incorporated,CA,92003,50,Governance, Business to Government,Multiple government open data sources,,Other,nGAP Incorporated,US Contract / Task Order Spending Details
+681,nGAP Incorporated,CA,92003,50,Governance, Business to Government,Multiple government open data sources,,Other,nGAP Incorporated,Contract Repository
+682,Nielsen,NY,0,10001,Research&Consulting, Business to Consumer,Department of Commerce,USDC,Federal,Nielsen,
+683,Nielsen,NY,0,10001,Research&Consulting, Business to Consumer,Multiple government open data sources,,Other,Nielsen,
+684,Noesis,TX,78759,50,Energy,Business to Business,Department of Commerce,USDC,Federal,Noesis,
+685,Noesis,TX,78759,50,Energy,Business to Business,Department of Commerce,USDC,Federal,Noesis,
+686,NonprofitMetrics,DC,20005,10,Data&Technology,Business to Business,Department of the Treasury,,Federal,NonprofitMetrics,IRS Business Master File (BMF)
+687,North American Van Lines,IN,46801,1000,Transportation,Business to Consumer,Department of Commerce,USDC,Federal,North American Van Lines,zipcode data
+688,Noveda Technologies,NJ,0,200,Data&Technology, Business to Government,Department of Energy,DOE,Federal,Noveda Technologies,
+689,NuCivic,NY,10013,50,Governance, nonprofit,Federal Deposit Insurance Corporation,FDIC,Federal,NuCivic,US National Foreclosure Statistics January 2012
+690,NuCivic,NY,10013,50,Governance, nonprofit,Multiple federal data sources,,Federal,NuCivic,Open Puerto Rico
+691,Numedii,CA,94301,10,ScientificResearch, Business to Government,Department of Health and Human Services,HHS,Federal,Numedii,
+692,Oliver Wyman,NY,10036,5000,Research&Consulting,Business to Business,Department of Health and Human Services,HHS,Federal,Oliver Wyman,
+693,Oliver Wyman,NY,10036,5000,Research&Consulting,Business to Business,Multiple government open data sources,,Other,Oliver Wyman,transit data
+694,OnDeck,NY,10018,500,Finance&Investment,Business to Consumer,Department of Labor,DOL,Federal,OnDeck,
+695,OnDeck,NY,10018,500,Finance&Investment,Business to Consumer,Department of Commerce,USDC,Federal,OnDeck,
+696,OnDeck,NY,10018,500,Finance&Investment,Business to Consumer,Department of the Treasury,,Federal,OnDeck,
+697,OnDeck,NY,10018,500,Finance&Investment,Business to Consumer,Small Business Administration,SBA,Federal,OnDeck,
+698,OnDeck,NY,10018,500,Finance&Investment,Business to Consumer,Multiple state data sources,,State,OnDeck,
+699,OnStar,MI,48090,10001,Geospatial&Mapping,Business to Consumer,Department of Commerce,USDC,Federal,OnStar,
+700,"Ontodia, Inc",NY,10013,10,Data&Technology, Business to Government,Multiple city and local data sources,,City/County,"Ontodia, Inc",
+701,"Ontodia, Inc",NY,10013,10,Data&Technology, Business to Government,New York,NY,State,"Ontodia, Inc",
+702,"Ontodia, Inc",NY,10013,10,Data&Technology, Business to Government,New York City,NYC,City/County,"Ontodia, Inc",NYC open data
+703,Onvia,WA,98101,200,Governance,Business to Business,Multiple government open data sources,,Other,Onvia,
+704,Open Data Nation,DC,20011,10,Research&Consulting,Business to Business,Multiple city and local data sources,,City/County,Open Data Nation,Multiple city and local data sources
+705,OpenCounter,CA,95062,10,Governance,Business to Government,Santa Cruz,SC,City/County,OpenCounter,
+706,OpenCounter,CA,95062,10,Governance,Business to Government,Multiple city and local data sources,,City/County,OpenCounter,
+707,OpenGov,CA,94043,50,Governance, Business to Government,Multiple city and local data sources,,City/County,OpenGov,
+708,OpenGov,CA,94043,50,Governance, Business to Government,Multiple state data sources,,State,OpenGov,
+709,OpenPlans,NY,10013,50,Governance,Business to Consumer,Multiple city and local data sources,,City/County,OpenPlans,
+710,"OpportunitySpace, Inc.",MA,2163,10,Housing&RealEstate,Business to Consumer,Louisville,LVL,City/County,"OpportunitySpace, Inc.",Consolidated Sales Inventory
+711,"OpportunitySpace, Inc.",MA,2163,10,Housing&RealEstate,Business to Consumer,Multiple city and local data sources,,City/County,"OpportunitySpace, Inc.",
+712,Optensity,VA,22101,10,Data&Technology, Business to Consumer,Multiple government open data sources,,Other,Optensity,
+713,optiGov,NJ,7030,10,Governance, Business to Government,Multiple city and local data sources,,City/County,optiGov,
+714,OptumInsight,MN,55344,10001,Healthcare, Business to Consumer,Multiple state data sources,,State,OptumInsight,
+715,OptumInsight,MN,55344,10001,Healthcare, Business to Consumer,Multiple federal data sources,,Federal,OptumInsight,
+716,Orlin Research,CA,90069,10,Data&Technology, academia,Department of Commerce,USDC,Federal,Orlin Research,
+717,Orlin Research,CA,90069,10,Data&Technology, academia,Department of Health and Human Services,HHS,Federal,Orlin Research,
+718,OSIsoft,CA,94577,1000,Data&Technology,Business to Business,Multiple federal data sources,,Federal,OSIsoft,
+719,OTC Markets,NY,10013,200,Finance&Investment,Business to Business,Securities and Exchange Commission,SEC,Federal,OTC Markets,
+720,Outline,NJ,8873,500,Governance, Business to Consumer,Multiple government open data sources,,Other,Outline,tax and census records
+721,Oversight Systems,GA,30067,200,Business&LegalServices,Business to Business,Department of Justice,DOJ,Federal,Oversight Systems,Uses data for compliance with the Foreign Corrupt Practices Act.
+722,Overture Technologies,MD,20815,10,Data&Technology,Business to Consumer,Department of Commerce,USDC,Federal,Overture Technologies,GIS Census Tract
+723,Overture Technologies,MD,20815,10,Data&Technology,Business to Consumer,Department of Education,ED / DOED,Federal,Overture Technologies,IPEDS
+724,Overture Technologies,MD,20815,10,Data&Technology,Business to Consumer,Department of the Treasury,,Federal,Overture Technologies,Treasury Quarterly NPV dataset
+725,Owler,CA,94402,200,Business&LegalServices,Business to Business,Securities and Exchange Commission,SEC,Federal,Owler,
+726,Palantir Technologies,CA,94301,1000,Data&Technology,Business to Business,Multiple federal data sources,,Federal,Palantir Technologies,Uses datasets from data.gov
+727,Panjiva,NY,10010,50,Research&Consulting,Business to Business,Department of Homeland Security,DHS,Federal,Panjiva,U.S. Customs Data
+728,Parsons Brinckerhoff,NY,10119,10001,Transportation,Business to Consumer,Department of the Interior,DOI,Federal,Parsons Brinckerhoff,
+729,Parsons Brinckerhoff,NY,10119,10001,Transportation,Business to Consumer,Montgomery County,,City/County,Parsons Brinckerhoff,
+730,Patently-O,MO,65211,10,Media, Business to Consumer,Department of Commerce,USDC,Federal,Patently-O,
+731,Patently-O,MO,65211,10,Media, Business to Consumer,Administrative Office of the United States Courts,AO,Federal,Patently-O,PACER
+732,PatientsLikeMe,MA,2141,200,Healthcare,Business to Consumer,Department of Health and Human Services,HHS,Federal,PatientsLikeMe,
+733,Pave,NY,10013,10,Finance&Investment,Business to Business,Arkansas,AR,State,Pave,Post-Completion Wages of Graduates
+734,Pave,NY,10013,10,Finance&Investment,Business to Business,Department of Labor,DOL,Federal,Pave,
+735,Pave,NY,10013,10,Finance&Investment,Business to Business,Colorado,CO,State,Pave,Post-Completion Wages of Graduates
+736,Pave,NY,10013,10,Finance&Investment,Business to Business,Department of Commerce,USDC,Federal,Pave,American Community Survey - Public Use Microdata Sample
+737,Pave,NY,10013,10,Finance&Investment,Business to Business,Florida,FL,State,Pave,Post-Completion Wages of Graduates
+738,Pave,NY,10013,10,Finance&Investment,Business to Business,Tennessee,TN,State,Pave,Post-Completion Wages of Graduates
+739,Pave,NY,10013,10,Finance&Investment,Business to Business,Texas,TX,State,Pave,Post-Completion Wages of Graduates
+740,Pave,NY,10013,10,Finance&Investment,Business to Business,Virginia,VA,State,Pave,Post-Completion Wages of Graduates
+741,Paxata,CA,94063,50,Data&Technology,Business to Business,Multiple government open data sources,,Other,Paxata,
+742,"PayScale, Inc.",WA,98109,200,Business&LegalServices, Business to Consumer,Department of Labor,DOL,Federal,"PayScale, Inc.",
+743,PeerJ,CA,94976,10,ScientificResearch,academia,Department of Health and Human Services,HHS,Federal,PeerJ,
+744,PeerJ,CA,94976,10,ScientificResearch,academia,Multiple government open data sources,,Other,PeerJ,
+745,People Power,CA,0,200,Data&Technology,Business to Consumer,Department of Energy,DOE,Federal,People Power,
+746,Persint,GA,30327,10,Finance&Investment,Business to Consumer,Multiple government open data sources,,Other,Persint,
+747,Personal Democracy Media,NY,10012,10,Governance,Business to Consumer,Multiple government open data sources,,Other,Personal Democracy Media,
+748,"Personal, Inc.",DC,20007,50,Lifestyle&Consumer,Business to Consumer,Department of Education,ED / DOED,Federal,"Personal, Inc.",Free Application for Federal Student Aid (FAFSA)
+749,"Personal, Inc.",DC,20007,50,Lifestyle&Consumer,Business to Consumer,Department of Education,ED / DOED,Federal,"Personal, Inc.",National Student Loan Data System (NSLDS)
+750,Personalis,CA,94025,200,ScientificResearch,Business to Business,Department of Health and Human Services,HHS,Federal,Personalis,Uses genome data
+751,Peterson's,NJ,7652,200,Education,Business to Consumer,Department of Education,ED / DOED,Federal,Peterson's,
+752,PEV4me.com,CA,94087,10,Energy,Business to Consumer,Department of Energy,DOE,Federal,PEV4me.com,
+753,PIXIA Corp,VA,20191,200,Data&Technology, Business to Government,Multiple federal data sources,,Federal,PIXIA Corp,
+754,PlaceILive.com,AL,3231,10,Housing&RealEstate, Business to Consumer,New York City,NYC,City/County,PlaceILive.com,Google
+755,PlaceILive.com,AL,3231,10,Housing&RealEstate, Business to Consumer,New York City,NYC,City/County,PlaceILive.com,Socrata
+756,PlaceILive.com,AL,3231,10,Housing&RealEstate, Business to Consumer,New York City,NYC,City/County,PlaceILive.com,Foursquare
+757,PlaceILive.com,AL,3231,10,Housing&RealEstate, Business to Consumer,New York City,NYC,City/County,PlaceILive.com,US Census
+758,PlaceILive.com,AL,3231,10,Housing&RealEstate, Business to Consumer,New York City,NYC,City/County,PlaceILive.com,MTA
+759,PlanetEcosystems,CA,94105,50,Energy, Business to Government,Department of Commerce,USDC,Federal,PlanetEcosystems,
+760,PlanetEcosystems,CA,94105,50,Energy, Business to Government,Multiple city and local data sources,,City/County,PlanetEcosystems,Cities Data
+761,PlotWatt,NC,27712,10,Energy,Business to Consumer,Department of Energy,DOE,Federal,PlotWatt,
+762,Plus-U,NY,10016,50,Education,Business to Consumer,Department of Education,ED / DOED,Federal,Plus-U,
+763,PolicyMap,PA,19103,10,Geospatial&Mapping, academia,Department of Labor,DOL,Federal,PolicyMap,Local Area Unemployment Statistics (LAUS)
+764,PolicyMap,PA,19103,10,Geospatial&Mapping, academia,Department of Commerce,USDC,Federal,PolicyMap,Longitudinal Employer-Household Dynamics (LEHD)
+765,PolicyMap,PA,19103,10,Geospatial&Mapping, academia,Department of Commerce,USDC,Federal,PolicyMap,American Community Survey (ACS)
+766,PolicyMap,PA,19103,10,Geospatial&Mapping, academia,Multiple government open data sources,,Other,PolicyMap,Federal Financial Institutions Examinations Council (FFIEC): Home Mortgage Disclosure Act (HMDA)
+767,Politify,CA,94704,10,Governance,Business to Consumer,Department of Commerce,USDC,Federal,Politify,
+768,Politify,CA,94704,10,Governance,Business to Consumer,Department of the Treasury,,Federal,Politify,
+769,Poncho App,NY,10014,200,Environment&Weather,Business to Consumer,Multiple city and local data sources,,City/County,Poncho App,"Uses data from NY Metropolitan Transportation Authority, New York City Department of Transportation"
+770,POPVOX,CA,94002,10,Governance, nonprofit,Multiple federal data sources,,Federal,POPVOX,Bills in Congress
+771,Porch,WA,98102,200,Housing&RealEstate,Business to Consumer,Seattle,SEA,City/County,Porch,Seattle dept of planning and development
+772,Porch,WA,98102,200,Housing&RealEstate,Business to Consumer,Seattle,SEA,City/County,Porch,City/Local Open Data
+773,PossibilityU,ME,0,50,Education,Business to Consumer,Department of Education,ED / DOED,Federal,PossibilityU,
+774,PowerAdvocate,MA,2111,200,Energy,Business to Business,Department of Energy,DOE,Federal,PowerAdvocate,
+775,Practice Fusion,CA,94102,500,Healthcare,Business to Business,Department of Health and Human Services,HHS,Federal,Practice Fusion,
+776,Practice Fusion,CA,94102,500,Healthcare,Business to Business,Department of Health and Human Services,HHS,Federal,Practice Fusion,
+777,Predilytics,NH,3101,50,Healthcare,Business to Business,Department of Health and Human Services,HHS,Federal,Predilytics,
+778,Predilytics,NH,3101,50,Healthcare,Business to Business,Multiple government open data sources,,Other,Predilytics,
+779,PricewaterhouseCoopers (PWC),NY,10017,10001,Finance&Investment,Business to Business,Multiple government open data sources,,Other,PricewaterhouseCoopers (PWC),
+780,ProgrammableWeb,WA,98144,50,Data&Technology, Business to Consumer,Multiple government open data sources,,Other,ProgrammableWeb,
+781,Progressive Insurance Group,OH,44143,10001,Insurance,Business to Consumer,Department of Commerce,USDC,Federal,Progressive Insurance Group,zipcode data
+782,Propeller Health,WI,53703,50,Healthcare, Business to Consumer,Multiple city and local data sources,,City/County,Propeller Health,Uses geographical and health data.
+783,ProPublica,NY,10006,50,Governance,Business to Consumer,Multiple government open data sources,,Other,ProPublica,
+784,PublicEngines,UT,84020,50,Governance, Business to Government,Multiple city and local data sources,,City/County,PublicEngines,Data from law enforcement agencies
+785,PYA Analytics,TN,37919,50,Research&Consulting, Business to Government,Department of Labor,DOL,Federal,PYA Analytics,
+786,PYA Analytics,TN,37919,50,Research&Consulting, Business to Government,Department of Commerce,USDC,Federal,PYA Analytics,
+787,PYA Analytics,TN,37919,50,Research&Consulting, Business to Government,Department of Commerce,USDC,Federal,PYA Analytics,
+788,PYA Analytics,TN,37919,50,Research&Consulting, Business to Government,Department of Health and Human Services,HHS,Federal,PYA Analytics,
+789,PYA Analytics,TN,37919,50,Research&Consulting, Business to Government,Department of Health and Human Services,HHS,Federal,PYA Analytics,
+790,PYA Analytics,TN,37919,50,Research&Consulting, Business to Government,Department of Justice,DOJ,Federal,PYA Analytics,
+791,PYA Analytics,TN,37919,50,Research&Consulting, Business to Government,Department of the Treasury,,Federal,PYA Analytics,
+792,PYA Analytics,TN,37919,50,Research&Consulting, Business to Government,Department of Transportation,DOT,Federal,PYA Analytics,
+793,PYA Analytics,TN,37919,50,Research&Consulting, Business to Government,Federal Election Commission,FED,Federal,PYA Analytics,
+794,PYA Analytics,TN,37919,50,Research&Consulting, Business to Government,Securities and Exchange Commission,SEC,Federal,PYA Analytics,
+795,PYA Analytics,TN,37919,50,Research&Consulting, Business to Government,Tennessee,TN,State,PYA Analytics,
+796,"Qado Energy, Inc.",NJ,7901,10,Energy,Business to Business,Department of Commerce,USDC,Federal,"Qado Energy, Inc.",Average cloudiness sunrise to sunset from manual observations (percent)
+797,"Qado Energy, Inc.",NJ,7901,10,Energy,Business to Business,Department of Commerce,USDC,Federal,"Qado Energy, Inc.",
+798,Quandl,NY,0,10,Data&Technology, Business to Consumer,Multiple federal data sources,,Federal,Quandl,Uses all 24 US Bureaus and Agencies sources
+799,Quertle,NV,89052,50,Data&Technology, academia,Department of Commerce,USDC,Federal,Quertle,Search
+800,Quertle,NV,89052,50,Data&Technology, academia,Department of Health and Human Services,HHS,Federal,Quertle,TOXNET Toxicology Data Network
+801,Quertle,NV,89052,50,Data&Technology, academia,Department of Health and Human Services,HHS,Federal,Quertle,PubMed
+802,Quertle,NV,89052,50,Data&Technology, academia,Department of Health and Human Services,HHS,Federal,Quertle,RePORTER
+803,Quid,CA,94111,200,Data&Technology, Business to Government,Multiple government open data sources,,Other,Quid,
+804,R R Donnelley,IL,60606,10001,Business&LegalServices,Business to Consumer,Multiple government open data sources,,Other,R R Donnelley,"Uses data such as birth Certificates, Vehicle Licenses, Vital Records, Warrants"
+805,R R Donnelley,IL,60606,10001,Business&LegalServices,Business to Consumer,Multiple state data sources,,State,R R Donnelley,
+806,R R Donnelley,IL,60606,10001,Business&LegalServices,Business to Consumer,Multiple federal data sources,,Federal,R R Donnelley,
+807,RAND Corporation,CA,90401,5000,Research&Consulting, Business to Government,Multiple federal data sources,,Federal,RAND Corporation,
+808,Rand McNally,IL,60077,500,Geospatial&Mapping, Business to Consumer,Department of Commerce,USDC,Federal,Rand McNally,GPS data
+809,Rand McNally,IL,60077,500,Geospatial&Mapping, Business to Consumer,Department of Commerce,USDC,Federal,Rand McNally,
+810,Rank and Filed,NY,0,200,Finance&Investment,Business to Consumer,Securities and Exchange Commission,SEC,Federal,Rank and Filed,EDGAR
+811,Ranku,NY,10001,10,Education,Business to Consumer,Department of Education,ED / DOED,Federal,Ranku,
+812,Ranku,NY,10001,10,Education,Business to Consumer,Multiple government open data sources,,Other,Ranku,
+813,Rapid Cycle Solutions,VA,20181,10,Data&Technology, Business to Government,Department of the Interior,DOI,Federal,Rapid Cycle Solutions,Recreation
+814,realtor.com,CA,95113,5000,Housing&RealEstate,Business to Consumer,Department of Commerce,USDC,Federal,realtor.com,
+815,realtor.com,CA,95113,5000,Housing&RealEstate,Business to Consumer,Multiple city and local data sources,,City/County,realtor.com,
+816,Recargo,CA,90291,50,Energy, Business to Consumer,Department of Energy,DOE,Federal,Recargo,Electric Vehicle Charging Station Locations
+817,ReciPal,NY,0,200,Food&Agriculture,Business to Consumer,Department of Health and Human Services,HHS,Federal,ReciPal,National Nutrient Database
+818,ReciPal,NY,0,200,Food&Agriculture,Business to Consumer,Department of Health and Human Services,HHS,Federal,ReciPal,
+819,Redfin,WA,98121,500,Housing&RealEstate,Business to Consumer,Department of Labor,DOL,Federal,Redfin,Bureau of Labor Statistics
+820,Redfin,WA,98121,500,Housing&RealEstate,Business to Consumer,Department of Commerce,USDC,Federal,Redfin,National Oceanic and Atmospheric Administration
+821,Redfin,WA,98121,500,Housing&RealEstate,Business to Consumer,Department of Commerce,USDC,Federal,Redfin,Census 2010
+822,Redfin,WA,98121,500,Housing&RealEstate,Business to Consumer,Multiple city and local data sources,,City/County,Redfin,Hundreds of county assessor and recorder offices
+823,RedLaser,CA,95126,50,Lifestyle&Consumer,Business to Consumer,Department of Commerce,USDC,Federal,RedLaser,GPS data
+824,Reed Elsevier,NY,10017,10001,Business&LegalServices,Business to Business,Multiple government open data sources,,Other,Reed Elsevier,
+825,REI Systems,VA,20166,1000,Data&Technology,Business to Consumer,Multiple government open data sources,,Other,REI Systems,
+826,Relationship Science,NY,10022,1000,Business&LegalServices,Business to Consumer,Securities and Exchange Commission,SEC,Federal,Relationship Science,
+827,Remi,MA,1002,200,Governance, Business to Government,Department of Commerce,USDC,Federal,Remi,
+828,Remi,MA,1002,200,Governance, Business to Government,Multiple government open data sources,,Other,Remi,
+829,Retroficiency,MA,2114,50,Energy,Business to Business,Department of Energy,DOE,Federal,Retroficiency,
+830,Revaluate,NY,10022,10,Housing&RealEstate,Business to Consumer,Department of Commerce,USDC,Federal,Revaluate,NYC Housing Vacancy Survey
+831,Revaluate,NY,10022,10,Housing&RealEstate,Business to Consumer,Department of Homeland Security,DHS,Federal,Revaluate,Flood Hazard Maps
+832,Revaluate,NY,10022,10,Housing&RealEstate,Business to Consumer,Department of Housing and Urban Development,HUD,Federal,Revaluate,Public Housing Physical Inspection Scores
+833,Revaluate,NY,10022,10,Housing&RealEstate,Business to Consumer,U.S. Environmental Protection Agency,EPA,Federal,Revaluate,Toxic Air Pollutant Cancer Risk
+834,Revaluate,NY,10022,10,Housing&RealEstate,Business to Consumer,U.S. Environmental Protection Agency,EPA,Federal,Revaluate,National Priority List
+835,Revaluate,NY,10022,10,Housing&RealEstate,Business to Consumer,New York,NY,State,Revaluate,Waste Management Transfer Stations
+836,Revaluate,NY,10022,10,Housing&RealEstate,Business to Consumer,New York,NY,State,Revaluate,Active Liquor Licences
+837,Revaluate,NY,10022,10,Housing&RealEstate,Business to Consumer,New York,NY,State,Revaluate,Radon Test Results
+838,Revaluate,NY,10022,10,Housing&RealEstate,Business to Consumer,New York,NY,State,Revaluate,Typical Utility Bill Information
+839,Revaluate,NY,10022,10,Housing&RealEstate,Business to Consumer,New York,NY,State,Revaluate,Manufactured Home Park Registrations
+840,Revaluate,NY,10022,10,Housing&RealEstate,Business to Consumer,New York City,NYC,City/County,Revaluate,311
+841,Revaluate,NY,10022,10,Housing&RealEstate,Business to Consumer,New York City,NYC,City/County,Revaluate,DOB Complaints
+842,Revaluate,NY,10022,10,Housing&RealEstate,Business to Consumer,New York City,NYC,City/County,Revaluate,HPD Violations
+843,Revaluate,NY,10022,10,Housing&RealEstate,Business to Consumer,New York City,NYC,City/County,Revaluate,Housing Litigation
+844,Revaluate,NY,10022,10,Housing&RealEstate,Business to Consumer,New York City,NYC,City/County,Revaluate,Restaurant Inspections
+845,Revaluate,NY,10022,10,Housing&RealEstate,Business to Consumer,New York City,NYC,City/County,Revaluate,Integrated Property Information System
+846,Revaluate,NY,10022,10,Housing&RealEstate,Business to Consumer,New York City,NYC,City/County,Revaluate,Oil Boilers
+847,Revaluate,NY,10022,10,Housing&RealEstate,Business to Consumer,New York City,NYC,City/County,Revaluate,LPC Complaint Log
+848,Revelstone,NJ,7054,50,Governance,Business to Government,Multiple city and local data sources,,City/County,Revelstone,Municipal performance measures
+849,Rezolve Group,CA,95827,50,Education,Business to Consumer,Department of Education,ED / DOED,Federal,Rezolve Group,
+850,Rivet Software,CO,80237,200,Finance&Investment,Business to Business,Securities and Exchange Commission,SEC,Federal,Rivet Software,
+851,Roadify Transit,NY,11215,10,Transportation,Business to Consumer,Multiple city and local data sources,,City/County,Roadify Transit,
+852,Robinson + Yu,DC,0,200,Research&Consulting,Business to Consumer,Multiple government open data sources,,Other,Robinson + Yu,
+853,Russell Investments,WA,98101,5000,Finance&Investment, Business to Consumer,Securities and Exchange Commission,SEC,Federal,Russell Investments,
+854,Sage Bionetworks,WA,98109,50,ScientificResearch, academia,Department of Health and Human Services,HHS,Federal,Sage Bionetworks,Gene Expression Omnibus
+855,Sage Bionetworks,WA,98109,50,ScientificResearch, academia,Department of Health and Human Services,HHS,Federal,Sage Bionetworks,The Cancer Genome Atlas
+856,SAP,PA,19073,10001,Data&Technology,Business to Business,Multiple government open data sources,,Other,SAP,
+857,SAS,NC,27513,10001,Data&Technology,Business to Business,Department of Health and Human Services,HHS,Federal,SAS,
+858,Scale Unlimited,CA,0,10,Data&Technology,Business to Business,Multiple government open data sources,,Other,Scale Unlimited,
+859,Science Exchange,CA,94301,50,ScientificResearch, academia,Department of Health and Human Services,HHS,Federal,Science Exchange,PMC Open Access Subset
+860,Seabourne,DC,20009,500,Data&Technology, Business to Government,Multiple government open data sources,,Other,Seabourne,
+861,SeeClickFix,CT,6510,50,Governance, Business to Government,Multiple city and local data sources,,City/County,SeeClickFix,311 data
+862,SigFig,CA,94103,50,Finance&Investment,Business to Business,Securities and Exchange Commission,SEC,Federal,SigFig,
+863,Simple Energy,CO,80302,50,Energy,Business to Business,Department of Energy,DOE,Federal,Simple Energy,EIA 861
+864,SimpleTuition,MA,2210,50,Education,Business to Consumer,Department of Education,ED / DOED,Federal,SimpleTuition,
+865,SlashDB,NJ,7305,10,Data&Technology, Business to Government,Multiple city and local data sources,,City/County,SlashDB,OpenJC
+866,SlashDB,NJ,7305,10,Data&Technology, Business to Government,New York City,NYC,City/County,SlashDB,
+867,Smart Utility Systems,CA,91709,500,Energy,Business to Business,Department of Commerce,USDC,Federal,Smart Utility Systems,
+868,SmartAsset,NY,10005,10,Finance&Investment,Business to Consumer,Department of Commerce,USDC,Federal,SmartAsset,US Census Bureau
+869,SmartAsset,NY,10005,10,Finance&Investment,Business to Consumer,Department of Education,ED / DOED,Federal,SmartAsset,Education data
+870,SmartAsset,NY,10005,10,Finance&Investment,Business to Consumer,Department of Justice,DOJ,Federal,SmartAsset,FBI Crime Stats
+871,SmartProcure,FL,33441,50,Governance,Business to Business,Multiple city and local data sources,,City/County,SmartProcure,
+872,SmartProcure,FL,33441,50,Governance,Business to Business,Multiple state data sources,,State,SmartProcure,
+873,SmartProcure,FL,33441,50,Governance,Business to Business,Multiple federal data sources,,Federal,SmartProcure,
+874,Smartronix,MD,20636,1000,Data&Technology,Business to Consumer,Multiple government open data sources,,Other,Smartronix,
+875,SnapSense,IL,60654,10,Research&Consulting, nonprofit,Department of Commerce,USDC,Federal,SnapSense,
+876,Social Explorer,NY,10708,50,Data&Technology, Business to Consumer,Department of Labor,DOL,Federal,Social Explorer,Employment and Unemployment
+877,Social Explorer,NY,10708,50,Data&Technology, Business to Consumer,Department of Commerce,USDC,Federal,Social Explorer,Decennial Censuses and American Community Survey
+878,Social Explorer,NY,10708,50,Data&Technology, Business to Consumer,Department of Commerce,USDC,Federal,Social Explorer,County Business Patterns
+879,Social Explorer,NY,10708,50,Data&Technology, Business to Consumer,Department of Commerce,USDC,Federal,Social Explorer,Current Population Survey
+880,Social Explorer,NY,10708,50,Data&Technology, Business to Consumer,Department of Commerce,USDC,Federal,Social Explorer,Tiger Files
+881,Social Health Insights,IN,46038,10,Healthcare,Business to Business,Department of Commerce,USDC,Federal,Social Health Insights,
+882,Social Health Insights,IN,46038,10,Healthcare,Business to Business,Department of Health and Human Services,HHS,Federal,Social Health Insights,Obamacare Qualified Health Plan (QHP) Data
+883,Social Health Insights,IN,46038,10,Healthcare,Business to Business,Department of Health and Human Services,HHS,Federal,Social Health Insights,Hospital Compare
+884,Social Health Insights,IN,46038,10,Healthcare,Business to Business,Department of Health and Human Services,HHS,Federal,Social Health Insights,CMS: Medicare Hospital Compare Data
+885,Social Health Insights,IN,46038,10,Healthcare,Business to Business,Department of Health and Human Services,HHS,Federal,Social Health Insights,National Plan and Provider Enumeration System (NPPES)
+886,Social Health Insights,IN,46038,10,Healthcare,Business to Business,Department of Health and Human Services,HHS,Federal,Social Health Insights,Pillbox Drug Data
+887,Social Health Insights,IN,46038,10,Healthcare,Business to Business,Department of Health and Human Services,HHS,Federal,Social Health Insights,Value Set Authority Center (VSAC)
+888,Social Health Insights,IN,46038,10,Healthcare,Business to Business,Department of Health and Human Services,HHS,Federal,Social Health Insights,AHRQ: United States Health Information Knowledgebase (USHIK) for Meaningful Use
+889,Social Health Insights,IN,46038,10,Healthcare,Business to Business,District of Columbia,DC,State,Social Health Insights,Multiple transit agencies and bikeshare
+890,Social Health Insights,IN,46038,10,Healthcare,Business to Business,Indiana,IN,State,Social Health Insights,FSSA: HER Incentive Program Data
+891,Social Health Insights,IN,46038,10,Healthcare,Business to Business,Maryland,MD,State,Social Health Insights,Multiple transit agencies and bikeshare
+892,Social Health Insights,IN,46038,10,Healthcare,Business to Business,U.S. Environmental Protection Agency,EPA,Federal,Social Health Insights,
+893,Social Health Insights,IN,46038,10,Healthcare,Business to Business,US Consumer Product Safety Commission,CPSC,Federal,Social Health Insights,CPSC Recall Data
+894,Social Health Insights,IN,46038,10,Healthcare,Business to Business,Virginia,VA,State,Social Health Insights,Multiple transit agencies and bikeshare
+895,Social Health Insights,IN,46038,10,Healthcare,Business to Business,Multiple state data sources,,State,Social Health Insights,
+896,Social Health Insights,IN,46038,10,Healthcare,Business to Business,Multiple federal data sources,,Federal,Social Health Insights,USAspending.gov
+897,Social Health Insights,IN,46038,10,Healthcare,Business to Business,Multiple federal data sources,,Federal,Social Health Insights,FedBizOpps.gov
+898,Social Health Insights,IN,46038,10,Healthcare,Business to Business,Multiple federal data sources,,Federal,Social Health Insights,Campaign Contribution and Lobbying Report
+899,SocialEffort Inc,NY,10013,10,Lifestyle&Consumer,Business to Consumer,Multiple government open data sources,,Other,SocialEffort Inc,
+900,Socrata,WA,98104,200,Data&Technology,Business to Consumer,Multiple city and local data sources,,City/County,Socrata,
+901,Socrata,WA,98104,200,Data&Technology,Business to Consumer,Multiple state data sources,,State,Socrata,
+902,Solar Census,CA,0,10,Energy,Business to Business,Department of Commerce,USDC,Federal,Solar Census,
+903,Solar Census,CA,0,10,Energy,Business to Business,Department of Energy,DOE,Federal,Solar Census,
+904,SolarList,NY,11201,10,Energy,Business to Consumer,Department of Energy,DOE,Federal,SolarList,PVWatts
+905,Sophic Systems Alliance,MA,2536,10,ScientificResearch, academia + nonprofit,Department of Health and Human Services,HHS,Federal,Sophic Systems Alliance,The PubChem Project
+906,Sophic Systems Alliance,MA,2536,10,ScientificResearch, academia + nonprofit,Department of Health and Human Services,HHS,Federal,Sophic Systems Alliance,FDA Online Label Repository
+907,S&P Capital IQ,NY,10041,10000,Finance&Investment,Business to Business,Securities and Exchange Commission,SEC,Federal,S&P Capital IQ,"Data on public companies, public offerings, filings, screening tools, macroeconomic data"
+908,SpaceCurve,WA,98104,50,Data&Technology, Business to Government,Department of Commerce,USDC,Federal,SpaceCurve,
+909,SpaceCurve,WA,98104,50,Data&Technology, Business to Government,Department of Commerce,USDC,Federal,SpaceCurve,
+910,SpaceCurve,WA,98104,50,Data&Technology, Business to Government,Department of the Interior,DOI,Federal,SpaceCurve,
+911,SpaceCurve,WA,98104,50,Data&Technology, Business to Government,Department of Transportation,DOT,Federal,SpaceCurve,
+912,SpaceCurve,WA,98104,50,Data&Technology, Business to Government,Multiple government open data sources,,Other,SpaceCurve,
+913,SpeSo Health,PA,19103,10,Healthcare,Business to Consumer,Department of Health and Human Services,HHS,Federal,SpeSo Health,"Clinical trials, case reports and lab-related research"
+914,Spikes Cavell Analytic Inc,VA,20170,50,Data&Technology,Business to Government,Multiple government open data sources,,Other,Spikes Cavell Analytic Inc,
+915,Splunk,CA,94107,1000,Data&Technology,Business to Consumer,Multiple government open data sources,,Other,Splunk,
+916,Spokeo,CA,91105,200,Lifestyle&Consumer,Business to Consumer,Multiple government open data sources,,Other,Spokeo,
+917,SpotCrime,MD,21202,50,Governance, nonprofit,Multiple city and local data sources,,City/County,SpotCrime,local police record
+918,SpotHero.com,IL,60654,10,Transportation,Business to Consumer,Multiple government open data sources,,Other,SpotHero.com,
+919,Stamen Design,CA,94110,200,Geospatial&Mapping,Business to Business,Multiple city and local data sources,,City/County,Stamen Design,
+920,Standard and Poor's,NY,0,10001,Finance&Investment,Business to Consumer,Multiple government open data sources,,Other,Standard and Poor's,
+921,State Farm Insurance,IL,61710,10001,Insurance,Business to Consumer,Multiple government open data sources,,Other,State Farm Insurance,
+922,Sterling Infosystems,NY,10004,50,Business&LegalServices,Business to Consumer,Multiple government open data sources,,Other,Sterling Infosystems,
+923,Stevens Worldwide Van Lines,NJ,7481,500,Transportation,Business to Business,Department of Commerce,USDC,Federal,Stevens Worldwide Van Lines,zipcode data
+924,STILLWATER SUPERCOMPUTING INC,CA,95762,50,Research&Consulting,Business to Business,California,CA,State,STILLWATER SUPERCOMPUTING INC,
+925,STILLWATER SUPERCOMPUTING INC,CA,95762,50,Research&Consulting,Business to Business,New York,NY,State,STILLWATER SUPERCOMPUTING INC,
+926,StockSmart,MA,2142,50,Finance&Investment,Business to Consumer,Securities and Exchange Commission,SEC,Federal,StockSmart,XBRL
+927,Stormpulse,TX,78759,10,Environment&Weather,Business to Business,Department of Commerce,USDC,Federal,Stormpulse,National Weather Service National Hurricane Center
+928,Stormpulse,TX,78759,10,Environment&Weather,Business to Business,Department of Commerce,USDC,Federal,Stormpulse,NWS Public Alerts
+929,StreamLink Software,OH,44115,50,Data&Technology, nonprofit,Multiple government open data sources,,Other,StreamLink Software,
+930,"StreetCred Software, Inc",TX,76092,50,Governance,Business to Government,Multiple city and local data sources,,City/County,"StreetCred Software, Inc",County and Local Police Records
+931,"StreetCred Software, Inc",TX,76092,50,Governance,Business to Government,Multiple city and local data sources,,City/County,"StreetCred Software, Inc",Municipal Records
+932,"StreetCred Software, Inc",TX,76092,50,Governance,Business to Government,Multiple state data sources,,State,"StreetCred Software, Inc",State police records
+933,"StreetCred Software, Inc",TX,76092,50,Governance,Business to Government,Multiple state data sources,,State,"StreetCred Software, Inc",Municipal Records
+934,StreetEasy,NY,0,50,Housing&RealEstate,Business to Consumer,Multiple city and local data sources,,City/County,StreetEasy,
+935,Suddath,NJ,7470,5000,Transportation,Business to Consumer,Department of Commerce,USDC,Federal,Suddath,
+936,Symcat,MD,21224,10,Healthcare,Business to Consumer,Department of Health and Human Services,HHS,Federal,Symcat,Unified Medical Language System
+937,Symcat,MD,21224,10,Healthcare,Business to Consumer,Department of Health and Human Services,HHS,Federal,Symcat,National Ambulatory Medical Care Survey
+938,Synthicity,CA,94704,10,Housing&RealEstate, Business to Government,Multiple city and local data sources,,City/County,Synthicity,openstreetmap and gtfs
+939,Synthicity,CA,94704,10,Housing&RealEstate, Business to Government,Multiple city and local data sources,,City/County,Synthicity,"parcels, buildings, and zoning"
+940,T. Rowe Price,MD,21202,200,Finance&Investment,Business to Consumer,Securities and Exchange Commission,SEC,Federal,T. Rowe Price,
+941,T. Rowe Price,MD,21202,200,Finance&Investment,Business to Consumer,Multiple federal data sources,,Federal,T. Rowe Price,
+942,Tableau Software,WA,98103,5000,Data&Technology,Business to Consumer,Multiple government open data sources,,Other,Tableau Software,
+943,TagniFi,FL,33602,10,Finance&Investment,Business to Business,Securities and Exchange Commission,SEC,Federal,TagniFi,
+944,Telenav,CA,94085,1000,Geospatial&Mapping,Business to Consumer,Department of Commerce,USDC,Federal,Telenav,
+945,Telenav,CA,94085,1000,Geospatial&Mapping,Business to Consumer,Department of Commerce,USDC,Federal,Telenav,
+946,Tendril,CO,80301,200,Energy,Business to Business,Department of Energy,DOE,Federal,Tendril,
+947,Teradata,OH,45342,200,Data&Technology,Business to Consumer,Multiple government open data sources,,Other,Teradata,
+948,The Advisory Board Company,DC,0,5000,Research&Consulting,Business to Consumer,Department of Education,ED / DOED,Federal,The Advisory Board Company,
+949,The Advisory Board Company,DC,0,5000,Research&Consulting,Business to Consumer,Department of Health and Human Services,HHS,Federal,The Advisory Board Company,
+950,The Advisory Board Company,DC,0,5000,Research&Consulting,Business to Consumer,Multiple government open data sources,,Other,The Advisory Board Company,
+951,The Bridgespan Group,MA,2116,200,Research&Consulting, nonprofit,Multiple government open data sources,,Other,The Bridgespan Group,"Uses data on healthcare, poverty, education, environment, and sustainability"
+952,The DocGraph Journal,TX,77004,10,Healthcare,Business to Consumer,Department of Health and Human Services,HHS,Federal,The DocGraph Journal,National Plan & Provider Enumeration System (NPPES)
+953,The Govtech Fund,CA,94117,200,Finance&Investment,Business to Consumer,Multiple government open data sources,,Other,The Govtech Fund,
+954,The Schork Report,PA,19085,10,Energy,Business to Business,Department of Commerce,USDC,Federal,The Schork Report,National Weather Service National Oceanic and Atmospheric Administration (NOAA)
+955,The Schork Report,PA,19085,10,Energy,Business to Business,Department of Energy,DOE,Federal,The Schork Report,US Energy Information Administration (EIA)
+956,The Vanguard Group,PA,19482,10001,Finance&Investment,Business to Consumer,Department of Labor,DOL,Federal,The Vanguard Group,
+957,The Vanguard Group,PA,19482,10001,Finance&Investment,Business to Consumer,Department of Commerce,USDC,Federal,The Vanguard Group,
+958,The Vanguard Group,PA,19482,10001,Finance&Investment,Business to Consumer,Federal Reserve Board,FED,Federal,The Vanguard Group,
+959,Think Computer Corporation,CA,94041,10,Business&LegalServices,Business to Business,California,CA,State,Think Computer Corporation,Various California Superior Courts
+960,Think Computer Corporation,CA,94041,10,Business&LegalServices,Business to Business,California,CA,State,Think Computer Corporation,Contra Costa County Court
+961,Think Computer Corporation,CA,94041,10,Business&LegalServices,Business to Business,California,CA,State,Think Computer Corporation,San Bernardino County Court
+962,Think Computer Corporation,CA,94041,10,Business&LegalServices,Business to Business,California,CA,State,Think Computer Corporation,San Francisco County Court
+963,Think Computer Corporation,CA,94041,10,Business&LegalServices,Business to Business,California,CA,State,Think Computer Corporation,San Mateo County Court
+964,Think Computer Corporation,CA,94041,10,Business&LegalServices,Business to Business,California,CA,State,Think Computer Corporation,Santa Cruz County Court
+965,Think Computer Corporation,CA,94041,10,Business&LegalServices,Business to Business,California,CA,State,Think Computer Corporation,Riverside County Court
+966,Think Computer Corporation,CA,94041,10,Business&LegalServices,Business to Business,Department of Commerce,USDC,Federal,Think Computer Corporation,Google and US Patent and Trademark Office (USPTO)
+967,Think Computer Corporation,CA,94041,10,Business&LegalServices,Business to Business,Department of Commerce,USDC,Federal,Think Computer Corporation,Patent Applications
+968,Think Computer Corporation,CA,94041,10,Business&LegalServices,Business to Business,Department of Commerce,USDC,Federal,Think Computer Corporation,Patent Assignments
+969,Think Computer Corporation,CA,94041,10,Business&LegalServices,Business to Business,Department of Commerce,USDC,Federal,Think Computer Corporation,Trademark Assignments
+970,Think Computer Corporation,CA,94041,10,Business&LegalServices,Business to Business,Department of Commerce,USDC,Federal,Think Computer Corporation,Trademark Trial and Appeal Board
+971,Think Computer Corporation,CA,94041,10,Business&LegalServices,Business to Business,Department of the Treasury,,Federal,Think Computer Corporation,
+972,Think Computer Corporation,CA,94041,10,Business&LegalServices,Business to Business,Administrative Office of the United States Courts,AO,Federal,Think Computer Corporation,Public Access to Court Electronic Records (PACER) via RECAP The Law
+973,Think Computer Corporation,CA,94041,10,Business&LegalServices,Business to Business,Multiple state data sources,,State,Think Computer Corporation,
+974,Think Computer Corporation,CA,94041,10,Business&LegalServices,Business to Business,Multiple federal data sources,,Federal,Think Computer Corporation,United States Supreme Court
+975,Think Computer Corporation,CA,94041,10,Business&LegalServices,Business to Business,Multiple federal data sources,,Federal,Think Computer Corporation,Government Printing Office (GPO)
+976,Thinknum,NY,10036,10,Finance&Investment,Business to Consumer,Department of Labor,DOL,Federal,Thinknum,
+977,Thinknum,NY,10036,10,Finance&Investment,Business to Consumer,Department of Commerce,USDC,Federal,Thinknum,
+978,Thinknum,NY,10036,10,Finance&Investment,Business to Consumer,Federal Housing Finance Agency,FHFA,Federal,Thinknum,
+979,Thinknum,NY,10036,10,Finance&Investment,Business to Consumer,Federal Reserve Board,FED,Federal,Thinknum,
+980,Thinknum,NY,10036,10,Finance&Investment,Business to Consumer,Securities and Exchange Commission,SEC,Federal,Thinknum,
+981,Thomson Reuters,NY,10036,10001,Business&LegalServices,Business to Consumer,Multiple government open data sources,,Other,Thomson Reuters,"Uses federal, state, and local data: public business locators, assets (real estate, motor vehicles, watercraft, and aircraft), licenses, filings (corporation, UCC, civil and criminal), court records (bankruptcies, foreclosures, marriages and divorces, judgments and liens), and sanctions (health care providers, OSHA inspection reports, etc.)"
+982,TopCoder,CA,94102,200,Data&Technology,Business to Consumer,Multiple government open data sources,,Other,TopCoder,"Uses datasets related to health, energy and earth sciences"
+983,TopCoder,CA,94102,200,Data&Technology,Business to Consumer,Multiple federal data sources,,Federal,TopCoder,
+984,TowerData,CA,60201,50,Data&Technology,Business to Business,Multiple government open data sources,,Other,TowerData,Uses public records like voter files and marriage licenses.
+985,TransparaGov,DC,0,50,Governance, Business to Government,Multiple city and local data sources,,City/County,TransparaGov,
+986,TransparaGov,DC,0,50,Governance, Business to Government,Multiple state data sources,,State,TransparaGov,
+987,TransUnion,IL,60661,5000,Business&LegalServices,Business to Consumer,Department of Homeland Security,DHS,Federal,TransUnion,
+988,TrialTrove,NY,10017,200,Healthcare,Business to Consumer,Department of Health and Human Services,HHS,Federal,TrialTrove,Clinical Trials
+989,TrialX,NY,10002,10,Healthcare, academia + nonprofit,Department of Health and Human Services,HHS,Federal,TrialX,Clinicaltrials
+990,TrialX,NY,10002,10,Healthcare, academia + nonprofit,Department of Health and Human Services,HHS,Federal,TrialX,health data dot gov
+991,TrialX,NY,10002,10,Healthcare, academia + nonprofit,Department of Health and Human Services,HHS,Federal,TrialX,
+992,Trintech,TX,75001,200,Finance&Investment,Business to Business,Securities and Exchange Commission,SEC,Federal,Trintech,
+993,TrueCar,CA,90401,500,Transportation,Business to Consumer,Multiple state data sources,,State,TrueCar,uses state vehicle-registration offices data
+994,Trulia,CA,94105,500,Housing&RealEstate,Business to Consumer,Department of Agriculture,USDA,Federal,Trulia,Forest Service Wildfire Map
+995,Trulia,CA,94105,500,Housing&RealEstate,Business to Consumer,Department of Commerce,USDC,Federal,Trulia,Tornado Map
+996,Trulia,CA,94105,500,Housing&RealEstate,Business to Consumer,Department of Commerce,USDC,Federal,Trulia,Hurricane Research Division Hurricane Map
+997,Trulia,CA,94105,500,Housing&RealEstate,Business to Consumer,Department of Homeland Security,DHS,Federal,Trulia,Flood Map
+998,Trulia,CA,94105,500,Housing&RealEstate,Business to Consumer,Department of the Interior,DOI,Federal,Trulia,Earthquake Map
+999,TrustedID,CA,94306,200,Lifestyle&Consumer, Business to Consumer,Multiple government open data sources,,Other,TrustedID,
+1000,TuvaLabs,NY,10018,10,Education, Business to Government,Multiple government open data sources,,Other,TuvaLabs,
+1001,Uber,CA,94105,5000,Transportation,Business to Consumer,Department of Commerce,USDC,Federal,Uber,
+1002,Uber,CA,94105,5000,Transportation,Business to Consumer,Department of Commerce,USDC,Federal,Uber,
+1003,Uber,CA,94105,5000,Transportation,Business to Consumer,Multiple city and local data sources,,City/County,Uber,Uses demographic data and local crime data.
+1004,Unigo LLC,NY,10016,50,Education,Business to Consumer,Department of Education,ED / DOED,Federal,Unigo LLC,
+1005,United Mayflower,MO,63122,10,Transportation, Business to Consumer,Department of Commerce,USDC,Federal,United Mayflower,zipcode data
+1006,Urban Airship,OR,0,200,Business&LegalServices,Business to Business,Department of Commerce,USDC,Federal,Urban Airship,
+1007,"Urban Mapping, Inc",CA,94108,10,Geospatial&Mapping,Business to Business,Multiple city and local data sources,,City/County,"Urban Mapping, Inc",Neighborhood Boundaries
+1008,"Urban Mapping, Inc",CA,94108,10,Geospatial&Mapping,Business to Business,Multiple city and local data sources,,City/County,"Urban Mapping, Inc",Airport Noise Contours
+1009,US Green Data,MA,2142,200,Energy,Business to Consumer,Department of Commerce,USDC,Federal,US Green Data,
+1010,US Green Data,MA,2142,200,Energy,Business to Consumer,Department of Energy,DOE,Federal,US Green Data,"Uses energy efficiency and renewable energy incentives, rebates, tax credits, and policies available to a specific address, zip code, or across a portfolio of multiple locations"
+1011,U.S. News Schools,DC,20007,200,Education,Business to Consumer,Department of Education,ED / DOED,Federal,U.S. News Schools,Common core of data
+1012,U.S. News Schools,DC,20007,200,Education,Business to Consumer,Department of Education,ED / DOED,Federal,U.S. News Schools,Common core of data
+1013,U.S. News Schools,DC,20007,200,Education,Business to Consumer,Department of Health and Human Services,HHS,Federal,U.S. News Schools,
+1014,USAA Group,TX,78252,10001,Finance&Investment,Business to Consumer,Multiple government open data sources,,Other,USAA Group,
+1015,USSearch,WA,98009,200,Business&LegalServices, Business to Consumer,Multiple government open data sources,,Other,USSearch,"Uses government records, civil records, criminal records, property ownership data, court documents"
+1016,Verdafero,CA,94121,10,Data&Technology,Business to Consumer,Department of Energy,DOE,Federal,Verdafero,Energy Star Portfolio Manager
+1017,Verdafero,CA,94121,10,Data&Technology,Business to Consumer,Department of Energy,DOE,Federal,Verdafero,Green Button
+1018,Vimo,CA,94043,200,Insurance,Business to Consumer,Department of Health and Human Services,HHS,Federal,Vimo,
+1019,"VisualDoD, LLC",VA,20190,10,Aerospace&Defense, Business to Government,Department of Defense,DOD,Federal,"VisualDoD, LLC",
+1020,Vital Axiom | Niinja,IL,60610,10,Data&Technology, Business to Government,Department of Defense,DOD,Federal,Vital Axiom | Niinja,
+1021,VitalChek,TN,37024,200,Governance,Business to Consumer,Multiple government open data sources,,Other,VitalChek,Uses a wide range of government certified vital records.
+1022,Vitals,NJ,7071,200,Healthcare, Business to Consumer,Department of Health and Human Services,HHS,Federal,Vitals,
+1023,Vizzuality,NY,10013,10,Geospatial&Mapping, academia,Department of Commerce,USDC,Federal,Vizzuality,Open Street Map
+1024,Vizzuality,NY,10013,10,Geospatial&Mapping, academia,Department of Commerce,USDC,Federal,Vizzuality,US Census Bureau
+1025,Votizen,NY,0,10,Governance,Business to Consumer,Multiple city and local data sources,,City/County,Votizen,
+1026,Walk Score,WA,98105,10,Lifestyle&Consumer, Business to Consumer,Department of Commerce,USDC,Federal,Walk Score,
+1027,Walk Score,WA,98105,10,Lifestyle&Consumer, Business to Consumer,Department of the Interior,DOI,Federal,Walk Score,
+1028,Walk Score,WA,98105,10,Lifestyle&Consumer, Business to Consumer,Multiple city and local data sources,,City/County,Walk Score,
+1029,WaterSmart Software,CA,94107,50,Environment&Weather,Business to Business,Department of Commerce,USDC,Federal,WaterSmart Software,
+1030,WaterSmart Software,CA,94107,50,Environment&Weather,Business to Business,Department of Commerce,USDC,Federal,WaterSmart Software,
+1031,WaterSmart Software,CA,94107,50,Environment&Weather,Business to Business,Department of Commerce,USDC,Federal,WaterSmart Software,
+1032,WattzOn,CA,94040,50,Energy, Business to Consumer,Department of Energy,DOE,Federal,WattzOn,
+1033,WattzOn,CA,94040,50,Energy, Business to Consumer,U.S. Environmental Protection Agency,EPA,Federal,WattzOn,
+1034,WattzOn,CA,94040,50,Energy, Business to Consumer,US International Trade Commission,USITC,Federal,WattzOn,
+1035,Way Better Patents,VA,22124,10,Business&LegalServices, Business to Consumer,Department of Commerce,USDC,Federal,Way Better Patents,USPTO Bulk Patent Downloads
+1036,Way Better Patents,VA,22124,10,Business&LegalServices, Business to Consumer,Department of Commerce,USDC,Federal,Way Better Patents,Geographic Data
+1037,Way Better Patents,VA,22124,10,Business&LegalServices, Business to Consumer,Department of the Interior,DOI,Federal,Way Better Patents,
+1038,Way Better Patents,VA,22124,10,Business&LegalServices, Business to Consumer,General Services Administration,GSA,Federal,Way Better Patents,Federal Procurement Data System
+1039,Way Better Patents,VA,22124,10,Business&LegalServices, Business to Consumer,National Science Foundation,NSF,Federal,Way Better Patents,NSF R&D Data
+1040,Way Better Patents,VA,22124,10,Business&LegalServices, Business to Consumer,Multiple federal data sources,,Federal,Way Better Patents,USPS
+1041,Weather Channel,GA,30339,5000,Research&Consulting,Business to Consumer,Department of Commerce,USDC,Federal,Weather Channel,
+1042,Weather Channel,GA,30339,5000,Research&Consulting,Business to Consumer,Department of Commerce,USDC,Federal,Weather Channel,
+1043,Weather Decision Technologies,OK,73072,200,Environment&Weather,Business to Business,Department of Commerce,USDC,Federal,Weather Decision Technologies,
+1044,Weather Underground,CA,94108,200,Environment&Weather, Business to Consumer,Department of Commerce,USDC,Federal,Weather Underground,
+1045,Weather Underground,CA,94108,200,Environment&Weather, Business to Consumer,Department of Commerce,USDC,Federal,Weather Underground,
+1046,Weather Underground,CA,94108,200,Environment&Weather, Business to Consumer,Department of Transportation,DOT,Federal,Weather Underground,
+1047,WebFilings,IA,50010,1000,Finance&Investment,Business to Consumer,Securities and Exchange Commission,SEC,Federal,WebFilings,
+1048,Webitects,IL,60603,50,Data&Technology, academia + nonprofit,California,CA,State,Webitects,California Criminal Justice Data by County
+1049,Webitects,IL,60603,50,Data&Technology, academia + nonprofit,Chicago,CHI,City/County,Webitects,Chicago Lobbyist Information
+1050,Webitects,IL,60603,50,Data&Technology, academia + nonprofit,Chicago,CHI,City/County,Webitects,Various Chicago Public School Data Sets
+1051,Webitects,IL,60603,50,Data&Technology, academia + nonprofit,Chicago,CHI,City/County,Webitects,Chicago Crime
+1052,WebMD,NY,10011,5000,Healthcare,Business to Consumer,Department of Health and Human Services,HHS,Federal,WebMD,
+1053,Weight Watchers,NY,11753,10001,Lifestyle&Consumer,Business to Consumer,Department of Agriculture,USDA,Federal,Weight Watchers,National nutrient database
+1054,Weight Watchers,NY,11753,10001,Lifestyle&Consumer,Business to Consumer,Department of Commerce,USDC,Federal,Weight Watchers,zipcode data
+1055,WeMakeItSafer,CA,94610,10,Lifestyle&Consumer,Business to Consumer,Department of Agriculture,USDA,Federal,WeMakeItSafer,
+1056,WeMakeItSafer,CA,94610,10,Lifestyle&Consumer,Business to Consumer,Department of Health and Human Services,HHS,Federal,WeMakeItSafer,
+1057,WeMakeItSafer,CA,94610,10,Lifestyle&Consumer,Business to Consumer,Department of Transportation,DOT,Federal,WeMakeItSafer,
+1058,WeMakeItSafer,CA,94610,10,Lifestyle&Consumer,Business to Consumer,US Consumer Product Safety Commission,CPSC,Federal,WeMakeItSafer,
+1059,Wheaton World Wide Moving,IN,46250,200,Transportation, Business to Consumer,Department of Commerce,USDC,Federal,Wheaton World Wide Moving,zipcode data
+1060,Whitby Group,NY,14853,50,Research&Consulting,Business to Consumer,Department of Labor,DOL,Federal,Whitby Group,Consumer Price Index
+1061,Whitby Group,NY,14853,50,Research&Consulting,Business to Consumer,Department of Commerce,USDC,Federal,Whitby Group,Quality Controlled Local Climatological Data
+1062,Whitby Group,NY,14853,50,Research&Consulting,Business to Consumer,Department of Commerce,USDC,Federal,Whitby Group,Quality Controlled Local Climatological Data
+1063,Whitby Group,NY,14853,50,Research&Consulting,Business to Consumer,Department of Commerce,USDC,Federal,Whitby Group,TIGER Shapefiles
+1064,Whitby Group,NY,14853,50,Research&Consulting,Business to Consumer,Department of Commerce,USDC,Federal,Whitby Group,American FactFinder
+1065,Wolfram Research,IL,0,1000,Data&Technology,Business to Consumer,Department of the Interior,DOI,Federal,Wolfram Research,
+1066,Wolfram Research,IL,0,1000,Data&Technology,Business to Consumer,Multiple government open data sources,,Other,Wolfram Research,
+1067,Wolters Kluwer,MN,55402,10001,Business&LegalServices,Business to Consumer,Multiple government open data sources,,Other,Wolters Kluwer,"Uses legal data such as rules, regulations, and other primary law for all 50 states and federal jurisdictions"
+1068,Workhands,CA,94107,200,Lifestyle&Consumer,Business to Consumer,Multiple government open data sources,,Other,Workhands,Uses geographical and jobs data.
+1069,Xatori,CA,94025,10,Energy,Business to Consumer,Department of Energy,DOE,Federal,Xatori,
+1070,Xcential,CA,92024,10,Governance,Business to Government,Multiple government open data sources,,Other,Xcential,Office of the Law Revision Council United States Code
+1071,xDayta,AZ,85028,10,Data&Technology,Business to Consumer,Multiple government open data sources,,Other,xDayta,
+1072,Xignite,CA,94402,200,Finance&Investment,Business to Business,Department of Commerce,USDC,Federal,Xignite,
+1073,Xignite,CA,94402,200,Finance&Investment,Business to Business,Securities and Exchange Commission,SEC,Federal,Xignite,insider data and holdings data
+1074,Yahoo,CA,94089,10001,Lifestyle&Consumer,Business to Consumer,Multiple government open data sources,,Other,Yahoo,
+1075,Zebu Compliance Solutions,OH,45662,50,Healthcare, Business to Government,Department of Health and Human Services,HHS,Federal,Zebu Compliance Solutions,US Department of Health and Human Services (HHS) Office of Inspector General List of Excluded Individuals/Entities (LEIE) Database
+1076,Zebu Compliance Solutions,OH,45662,50,Healthcare, Business to Government,Department of Health and Human Services,HHS,Federal,Zebu Compliance Solutions,US Department of Health and Human Services (HHS) National Drug Code Directory
+1077,Zebu Compliance Solutions,OH,45662,50,Healthcare, Business to Government,Department of Health and Human Services,HHS,Federal,Zebu Compliance Solutions,Centers for Medicare & Medicaid Services (CMS) National Plan and Provider Enumeration System (NPPES)
+1078,Zebu Compliance Solutions,OH,45662,50,Healthcare, Business to Government,Department of Health and Human Services,HHS,Federal,Zebu Compliance Solutions,US Food and Drug Administration (FDA) Establishment Registration and Medical Device Listing Files
+1079,Zebu Compliance Solutions,OH,45662,50,Healthcare, Business to Government,Department of Health and Human Services,HHS,Federal,Zebu Compliance Solutions,US Department of Health and Human Services (HHS) National Drug Code Directory
+1080,Zebu Compliance Solutions,OH,45662,50,Healthcare, Business to Government,Multiple government open data sources,,Other,Zebu Compliance Solutions,System for Award Management Exclusions Data
+1081,Yelp,CA,94105,5000,Lifestyle&Consumer,Business to Consumer,Multiple city and local data sources,,City/County,Yelp,Uses restaurant health inspection data.
+1082,YourMapper,KY,40204,10,Geospatial&Mapping, Business to Consumer,Atlanta,ATL,City/County,YourMapper,Crime
+1083,YourMapper,KY,40204,10,Geospatial&Mapping, Business to Consumer,Chicago,CHI,City/County,YourMapper,Crime
+1084,YourMapper,KY,40204,10,Geospatial&Mapping, Business to Consumer,Chicago,CHI,City/County,YourMapper,Building Permits
+1085,YourMapper,KY,40204,10,Geospatial&Mapping, Business to Consumer,Chicago,CHI,City/County,YourMapper,Health Inspections
+1086,YourMapper,KY,40204,10,Geospatial&Mapping, Business to Consumer,Department of Agriculture,USDA,Federal,YourMapper,Farmers Markets
+1087,YourMapper,KY,40204,10,Geospatial&Mapping, Business to Consumer,Department of Education,ED / DOED,Federal,YourMapper,Public School Info
+1088,YourMapper,KY,40204,10,Geospatial&Mapping, Business to Consumer,Department of Health and Human Services,HHS,Federal,YourMapper,Nursing Home Ratings
+1089,YourMapper,KY,40204,10,Geospatial&Mapping, Business to Consumer,Department of Transportation,DOT,Federal,YourMapper,Bridge Structural Safety
+1090,YourMapper,KY,40204,10,Geospatial&Mapping, Business to Consumer,District of Columbia,DC,State,YourMapper,Crime
+1091,YourMapper,KY,40204,10,Geospatial&Mapping, Business to Consumer,Institute of Museum and Library Services,IMLS,Federal,YourMapper,Museums
+1092,YourMapper,KY,40204,10,Geospatial&Mapping, Business to Consumer,Institute of Museum and Library Services,IMLS,Federal,YourMapper,Libraries
+1093,YourMapper,KY,40204,10,Geospatial&Mapping, Business to Consumer,Kentucky,KY,State,YourMapper,Car Accidents
+1094,YourMapper,KY,40204,10,Geospatial&Mapping, Business to Consumer,Kentucky,KY,State,YourMapper,Political Contributions
+1095,YourMapper,KY,40204,10,Geospatial&Mapping, Business to Consumer,Kentucky,KY,State,YourMapper,Sex Offenders
+1096,YourMapper,KY,40204,10,Geospatial&Mapping, Business to Consumer,Louisville,LVL,City/County,YourMapper,Crime Reports
+1097,YourMapper,KY,40204,10,Geospatial&Mapping, Business to Consumer,Louisville,LVL,City/County,YourMapper,Building Permits
+1098,YourMapper,KY,40204,10,Geospatial&Mapping, Business to Consumer,Louisville,LVL,City/County,YourMapper,Health Inspections
+1099,YourMapper,KY,40204,10,Geospatial&Mapping, Business to Consumer,Louisville,LVL,City/County,YourMapper,ABC Licenses
+1100,YourMapper,KY,40204,10,Geospatial&Mapping, Business to Consumer,Louisville,LVL,City/County,YourMapper,Property Maintenance
+1101,YourMapper,KY,40204,10,Geospatial&Mapping, Business to Consumer,Louisville,LVL,City/County,YourMapper,Property Values
+1102,YourMapper,KY,40204,10,Geospatial&Mapping, Business to Consumer,Louisville,LVL,City/County,YourMapper,Recent Home Sales
+1103,YourMapper,KY,40204,10,Geospatial&Mapping, Business to Consumer,Louisville,LVL,City/County,YourMapper,Public Transit
+1104,YourMapper,KY,40204,10,Geospatial&Mapping, Business to Consumer,San Francisco,SF,City/County,YourMapper,Crime
+1105,YourMapper,KY,40204,10,Geospatial&Mapping, Business to Consumer,San Francisco,SF,City/County,YourMapper,Trees
+1106,YourMapper,KY,40204,10,Geospatial&Mapping, Business to Consumer,San Francisco,SF,City/County,YourMapper,311 Calls
+1107,YourMapper,KY,40204,10,Geospatial&Mapping, Business to Consumer,U.S. Environmental Protection Agency,EPA,Federal,YourMapper,Toxic Pollution Emmissions
+1108,YourMapper,KY,40204,10,Geospatial&Mapping, Business to Consumer,U.S. Environmental Protection Agency,EPA,Federal,YourMapper,Toxic Release Chemicals
+1109,YourMapper,KY,40204,10,Geospatial&Mapping, Business to Consumer,U.S. Environmental Protection Agency,EPA,Federal,YourMapper,Greenhouse Gas Emmissions
+1110,YourMapper,KY,40204,10,Geospatial&Mapping, Business to Consumer,Multiple city and local data sources,,City/County,YourMapper,
+1111,Zillow,WA,98101,5000,Housing&RealEstate,Business to Consumer,Department of Labor,DOL,Federal,Zillow,
+1112,Zillow,WA,98101,5000,Housing&RealEstate,Business to Consumer,Department of Commerce,USDC,Federal,Zillow,
+1113,Zillow,WA,98101,5000,Housing&RealEstate,Business to Consumer,Federal Housing Finance Agency,FHFA,Federal,Zillow,
+1114,ZocDoc,NY,10012,1000,Healthcare,Business to Consumer,Department of Commerce,USDC,Federal,ZocDoc,zipcode data
+1115,Zonability,TX,78702,50,Housing&RealEstate, nonprofit,Department of Homeland Security,DHS,Federal,Zonability,
+1116,Zonability,TX,78702,50,Housing&RealEstate, nonprofit,Multiple city and local data sources,,City/County,Zonability,Uses city zoning ordinance data.
+1117,Zoner,NY,10018,10,Housing&RealEstate, nonprofit,New York City,NYC,City/County,Zoner,PLUTO
+1118,Zoner,NY,10018,10,Housing&RealEstate, nonprofit,New York City,NYC,City/County,Zoner,NYC ACRIS
+1119,Zoner,NY,10018,10,Housing&RealEstate, nonprofit,New York City,NYC,City/County,Zoner,New York City Office of City Planning
+1120,Zoner,NY,10018,10,Housing&RealEstate, nonprofit,New York City,NYC,City/County,Zoner,New York City Department of Buildings
+1121,Zoner,NY,10018,10,Housing&RealEstate, nonprofit,New York City,NYC,City/County,Zoner,New York City Department of Finance
+1122,Zoner,NY,10018,10,Housing&RealEstate, nonprofit,New York City,NYC,City/County,Zoner,New York City Fire Department
+1123,Zoner,NY,10018,10,Housing&RealEstate, nonprofit,New York City,NYC,City/County,Zoner,New York City Department of Transportation
+1124,Zoner,NY,10018,10,Housing&RealEstate, nonprofit,New York City,NYC,City/County,Zoner,New York City Office of Digital Information and Technology
+1125,Zurich Insurance (Risk Room),IL,60196,10001,Insurance,Business to Consumer,Multiple federal data sources,,Federal,Zurich Insurance (Risk Room),
+1126,ABC1,IL,60196,10,Other,Business to Consumer,Multiple federal data sources,,Federal,ABC,
+1127,ABC2,NY,60196,10,Other,Business to Business,Multiple federal data sources,,Federal,ABC,
+1128,ABC3,NY,60196,50,Other,Business to Business,Multiple federal data sources,,Federal,ABC,
+1129,ABC4,NY,60196,220,Other,Business to Business,Multiple federal data sources,,Federal,ABC,
+1130,ABC5,NY,60196,510,Other,Business to Government,Multiple federal data sources,,Federal,ABC,
+1131,ABC6,NY,60196,1050,Other,Business to Government,Multiple federal data sources,,Federal,ABC,
+1132,ABC7,CA,60196,10,Other,Business to Government,Multiple federal data sources,,Federal,ABC,
+1133,ABC8,CA,60196,10,Other,Academia,Multiple federal data sources,,Federal,ABC,
+1134,ABC9,CA,60196,50,Other,Academia,Multiple federal data sources,,Federal,ABC,
+1135,ABC10,CA,60196,220,Other,Academia,Multiple federal data sources,,Federal,ABC,
+1136,ABC11,CA,60196,510,Other,Academia,Multiple federal data sources,,Federal,ABC,
+1137,ABC12,CA,60196,1050,Other,Nonprofit,Multiple federal data sources,,Federal,ABC,
+1138,ABC13,CA,60196,5100,Other,Nonprofit,Multiple federal data sources,,Federal,ABC,
+1139,ABC14,CA,60196,10000,Other,Business to Nonprofit,Multiple federal data sources,,Federal,ABC,
+1140,ABC15,CA,60196,10001,Other,Business to Nonprofit,Multiple federal data sources,,Federal,ABC,
+1141,ABC16,CA,60196,300,Other,Business to Nonprofit,Multiple federal data sources,,Federal,ABC,
+1142,ABC17,CA,60196,800,Other,Business to Nonprofit,Multiple federal data sources,,Federal,ABC,
+1143,ABC18,TX,60196,10,Other,Business to Nonprofit,Multiple federal data sources,,Federal,ABC,
+1144,ABC19,TX,60196,10,Other,Nonprofit,Multiple federal data sources,,Federal,ABC,
+1145,ABC20,TX,60196,50,Other,Business to Consumer,Multiple federal data sources,,Federal,ABC,
+1146,ABC21,TX,60196,220,Other,Business to Consumer,Multiple federal data sources,,Federal,ABC,
+1147,ABC22,TX,60196,510,Other,Business to Business,Multiple federal data sources,,Federal,ABC,
+1148,ABC23,TX,60196,1050,Other,Business to Business,Multiple federal data sources,,Federal,ABC,
+1149,ABC24,TX,60196,5100,Other,Business to Business,Multiple federal data sources,,Federal,ABC,
+1150,ABC25,TX,60196,10000,Other,Business to Business,Multiple federal data sources,,Federal,ABC,
+1151,ABC26,TX,60196,10001,Other,Business to Government,Multiple federal data sources,,Federal,ABC,
+1152,ABC27,TX,60196,300,Other,Business to Government,Multiple federal data sources,,Federal,ABC,
+1153,ABC28,TX,60196,800,Other,Business to Government,Multiple federal data sources,,Federal,ABC,
+1154,ABC29,TX,60196,10,Other,Business to Government,Multiple federal data sources,,Federal,ABC,
+1155,ABC30,TX,60196,10,Other,Nonprofit,Multiple federal data sources,,Federal,ABC,
+1156,ABC31,TX,60196,50,Other,Nonprofit,Multiple federal data sources,,Federal,ABC,
+1157,ABC32,TX,60196,220,Other,Business to Nonprofit,Multiple federal data sources,,Federal,ABC,
+1158,ABC33,TX,60196,510,Other,Business to Nonprofit,Multiple federal data sources,,Federal,ABC,
+1159,ABC34,TX,60196,1050,Other,Business to Nonprofit,Multiple federal data sources,,Federal,ABC,
+1160,ABC35,TX,60196,5100,Other,Business to Nonprofit,Multiple federal data sources,,Federal,ABC,
+1161,ABC36,TX,60196,10000,Other,Business to Nonprofit,Multiple federal data sources,,Federal,ABC,
+1162,ABC37,TX,60196,10001,Other,Business to Consumer,Multiple federal data sources,,Federal,ABC,
+1163,ABC38,TX,60196,300,Other,Business to Business,Multiple federal data sources,,Federal,ABC,

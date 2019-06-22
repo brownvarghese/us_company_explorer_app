@@ -2,26 +2,37 @@ body {
     font-family: Arial, Helvetica, sans-serif;
 }
 
+/* .imgst{
+	height: 50px;
+		width: 50px;
+		position: absolute;
+		bottom: 10px;
+		margin-left: 35vw;
+}
+	
+.stattext{
+	position: absolute;
+		bottom: 4vh;
+		
+		left: 90vw;
+} */
+
 #tbldata{
 	display:none;
 }
 
-/* ​.header
-{
-    height:50px;
-}
-
-.content
-{
-    position:absolute;
-    top: 50px;
-    left:0px;
-    right:0px;
-    bottom:0px;
-    overflow-y:scroll;        
-}​ */
-
 #heading1,#heading2,#heading3{
 	display:none;
 	font-weight:bold;
+
+}
+	
+.staticText{
+	position: absolute;
+    font-size: 17px;
+    left: 78vw;
+    bottom: 5vh;
+    top: 4vh;
+    font-style: italic;
+    color: blueviolet;
 }

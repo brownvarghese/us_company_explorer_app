@@ -62,7 +62,8 @@ def cccat_seldata(cccat):
         USCA_Fulldata.state,
         USCA_Fulldata.full_time_employees,
         USCA_Fulldata.business_model,
-        USCA_Fulldata.agency_name
+        USCA_Fulldata.agency_name,
+        USCA_Fulldata.dataset_name
     ]
 
     results = db.session.query(*sel).filter(USCA_Fulldata.company_category == cccat).all()
@@ -82,6 +83,7 @@ def cccat_seldata(cccat):
         cccat_dict["full_time_employees"] = result[3]
         cccat_dict["business_model"] = result[4]
         cccat_dict["agency_name"] = result[5]
+        cccat_dict["dataset_name"] = result[6]
         cccat_metadata.append(cccat_dict)
 
     print(cccat_metadata)
@@ -90,8 +92,13 @@ def cccat_seldata(cccat):
 @app.route("/mapdata/<cccat>")
 def cccat_mapdata(cccat):
 
-    mquery = db.session.query(USCA_Fulldata.state, func.count(USCA_Fulldata.company_name.distinct())).\
-    filter(USCA_Fulldata.company_category == cccat).group_by(USCA_Fulldata.state).all()
+    sel = [
+        USCA_Fulldata.state,
+        func.count(USCA_Fulldata.company_name.distinct()),
+        func.count(USCA_Fulldata.agency_name)
+    ]
+
+    mquery = db.session.query(*sel ).filter(USCA_Fulldata.company_category == cccat).group_by(USCA_Fulldata.state).all()
     
     # print(mquery)        
 
@@ -101,6 +108,7 @@ def cccat_mapdata(cccat):
         m_dict = {}
         m_dict["id"]="US."+s[0]
         m_dict["value"]=s[1]
+        m_dict["Avg_agcy_cnt"]= round(s[2]/s[1]+0.5,0)
         cccat_mdata.append(m_dict)
 
     return jsonify(cccat_mdata)
@@ -136,26 +144,31 @@ def cccat_piedata(cccat):
 
     cccat_pdata = []
 
-    p_dict={}
-    p_dict["FTE_range"]='- 500'
-    p_dict["range_count"]=c1
-    cccat_pdata.append(p_dict)
-    p_dict={}
-    p_dict["FTE_range"]='501-2500'
-    p_dict["range_count"]=c2
-    cccat_pdata.append(p_dict)
-    p_dict={}
-    p_dict["FTE_range"]='2501-5000'
-    p_dict["range_count"]=c3
-    cccat_pdata.append(p_dict)
-    p_dict={}
-    p_dict["FTE_range"]='5001-10000'
-    p_dict["range_count"]=c4
-    cccat_pdata.append(p_dict)
-    p_dict={}
-    p_dict["FTE_range"]='10001 - '
-    p_dict["range_count"]=c5
-    cccat_pdata.append(p_dict)
+    if c1 !=0:
+        p_dict={}
+        p_dict["FTE_range"]='< 501'
+        p_dict["range_count"]=c1
+        cccat_pdata.append(p_dict)
+    if c2 !=0:
+        p_dict={}
+        p_dict["FTE_range"]='501-2500'
+        p_dict["range_count"]=c2
+        cccat_pdata.append(p_dict)
+    if c3 !=0:    
+        p_dict={}
+        p_dict["FTE_range"]='2501-5000'
+        p_dict["range_count"]=c3
+        cccat_pdata.append(p_dict)
+    if c4 !=0:    
+        p_dict={}
+        p_dict["FTE_range"]='5001-10000'
+        p_dict["range_count"]=c4
+        cccat_pdata.append(p_dict)
+    if c5 !=0:
+        p_dict={}
+        p_dict["FTE_range"]='> 10000'
+        p_dict["range_count"]=c5
+        cccat_pdata.append(p_dict)
 
     return jsonify(cccat_pdata)
 
