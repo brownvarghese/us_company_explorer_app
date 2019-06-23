@@ -9,6 +9,7 @@
 1.  All the Dashboard App files are in the "App Project Folder" and this folder needs to be downloaded to your laptop.
 
 2.  In that folder, the following are the components needed to run the app.
+
     2.1  app.py
     2.2  USCA_DATABASE.sqlite   - under 'db' folder
     2.3  app.js - under 'static/js' folder
